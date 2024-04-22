@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Purchase PA/Page_Pilih Asuransi Kecelakaan diri Terbaik_a2a37d/div_SelanjutnyaProteksi BronzeZurich Insura_65059b",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/main/section/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Masuk\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Purchase PA/Page_Pilih Asuransi Kecelakaan diri Terbaik_a2a37d/div_SelanjutnyaProteksi BronzeZurich Insura_65059b_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255",
+      "brokenLocator": "//div[@id\u003d\u0027mwwuk30dj\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/main/div[2]/section/div[2]/form/div[7]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255_idRelative.png"
+    }
+  ]
+}

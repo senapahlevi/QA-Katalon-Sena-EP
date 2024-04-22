@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Catatan (Opsional)_customer_note</name>
+   <tag></tag>
+   <elementGuidId>49e31f81-9cc5-4410-a5c9-3c38dc3b96de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='customer_note']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;customer_note&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan Catatan Anda&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3357e55d-49a1-4b5c-9160-0897e0712503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>1f773c73-ec81-4d3d-936a-bfe4d844a425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder-gray-4 placeholder-italic mb-6 shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light</value>
+      <webElementGuid>9e3925da-8431-4001-81d1-08dd0ae67bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Catatan Anda</value>
+      <webElementGuid>8d7d2a4f-90a9-4a50-b888-184a94f313f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>customer_note</value>
+      <webElementGuid>147d69b1-a030-4fc9-9292-772ec3e51191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/div[@class=&quot;flex-col justify-content-center mb-26 sm-text-center&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;lg:mx-72 sm:mx-full&quot;]/form[1]/div[6]/textarea[@class=&quot;placeholder-gray-4 placeholder-italic mb-6 shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light&quot;]</value>
+      <webElementGuid>176bd082-d727-412a-8961-a7421df556f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='customer_note']</value>
+      <webElementGuid>e7a601c6-474e-4147-b572-a6d253766791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div[2]/form/div[6]/textarea</value>
+      <webElementGuid>354577db-4b12-4aa9-b7b3-acb317234c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>817b9074-1ce4-4114-b5f1-b2fed8df864e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Masukkan Catatan Anda' and @name = 'customer_note']</value>
+      <webElementGuid>e501bfbf-4403-49d1-a89e-ec1dfb1418b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

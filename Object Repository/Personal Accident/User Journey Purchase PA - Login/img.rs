@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a8b2dbce-413f-49ff-ad06-6d5fc559020f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]/div/div/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Asuransi Kecelakaan Diri&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Asuransi Kecelakaan Diri Asuransi Kecelakaan Diri&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a62b4c0e-13c3-471e-8d87-640ab53e4d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Asuransi Kecelakaan Diri</value>
+      <webElementGuid>bfb2d1e7-45d8-4c91-81eb-5851c80297c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_next/static/media/healthinsurance.92213351.svg</value>
+      <webElementGuid>b8820b1e-04d4-4c95-bb5f-f29ceda9251c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>1492d29d-c64d-4cf2-901d-757f2c1f6014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nimg</name>
+      <type>Main</type>
+      <value>intrinsic</value>
+      <webElementGuid>867d03f0-90d9-4bcc-a67b-4b5d63c746a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/_next/static/media/healthinsurance.92213351.svg 1x, /_next/static/media/healthinsurance.92213351.svg 2x</value>
+      <webElementGuid>5522ceb1-d863-4e28-a5bc-2a76759f1899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-product-recommendations&quot;)/div[@class=&quot;px-4 sm:px-6 lg:px-8 xs:mt-96 md:mt-96&quot;]/div[@class=&quot;p-8 flex flex-col rounded-[45px] bg-brand-whitegray shadow-md&quot;]/div[@class=&quot;mt-6 w-full max-w-xl mx-auto grid grid-rows-3 sm:grid-rows-1 grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-5&quot;]/a[@class=&quot;link_base-link__fSADh inline-flex flex-col items-center text-gray-2 p-4 rounded-xl transition duration-500 ease-in-out hover:shadow-sm hover:bg-white&quot;]/div[@class=&quot;mb-2.5 relative&quot;]/div[@class=&quot;opacity-100&quot;]/span[1]/img[1]</value>
+      <webElementGuid>cad722c6-f6cb-4b73-933d-19fe9b163fbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]/div/div/span/img</value>
+      <webElementGuid>92d8253a-d6ab-4465-b758-988cf09fce95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Asuransi Kecelakaan Diri']</value>
+      <webElementGuid>2f036ba9-950d-4ea3-9834-1bd9fab21f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div/span/img</value>
+      <webElementGuid>9e65b18e-9fb8-4cc0-9770-6d16071a9d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Asuransi Kecelakaan Diri' and @src = '/_next/static/media/healthinsurance.92213351.svg']</value>
+      <webElementGuid>90bfef40-bb66-47cc-a909-2a56e3819508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

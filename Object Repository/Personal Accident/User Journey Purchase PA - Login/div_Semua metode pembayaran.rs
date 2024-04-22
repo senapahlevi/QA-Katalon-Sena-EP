@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Semua metode pembayaran</name>
+   <tag></tag>
+   <elementGuidId>d649430b-1e22-45ed-98f6-e371bd2715d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-list-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Semua metode pembayaran&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d48158e-3554-4492-b445-a0208baecf5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-list-title</value>
+      <webElementGuid>470fe3c5-2f67-4a4a-92c7-704fb773ffeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua metode pembayaran</value>
+      <webElementGuid>0ebe1f9e-b5b3-4316-b0e9-4b1cdaed37b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-container-list&quot;]/div[@class=&quot;payment-list-title&quot;]</value>
+      <webElementGuid>a7ec4077-29a7-4026-8ac8-7f296745827c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_concat(id(, , snap-midtrans, , ))_po_6b00ce</value>
+      <webElementGuid>46bcfdf3-54b0-4aae-84a9-5734f17de8d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div/div</value>
+      <webElementGuid>4b2993f7-f51b-4588-a0d4-0bda48f73926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rincian'])[1]/following::div[3]</value>
+      <webElementGuid>05e1292d-ab1c-4a57-bc52-88ef2170971a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp75.000'])[1]/following::div[7]</value>
+      <webElementGuid>3d4c8043-30f1-42e5-9161-f2865bdeda17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual account'])[1]/preceding::div[1]</value>
+      <webElementGuid>07231eb0-ef45-43cb-8c9a-ec3b77ddc6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank lainnya'])[1]/preceding::div[22]</value>
+      <webElementGuid>0597c398-2a31-4a13-837a-def54412d823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua metode pembayaran']/parent::*</value>
+      <webElementGuid>3e59b657-3b8e-4053-bb40-372fbad65d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>53fd81d3-5ae4-414c-a281-9e374be8567c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Semua metode pembayaran' or . = 'Semua metode pembayaran')]</value>
+      <webElementGuid>e8ac3aa9-e717-4eec-9d7f-811573004c94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

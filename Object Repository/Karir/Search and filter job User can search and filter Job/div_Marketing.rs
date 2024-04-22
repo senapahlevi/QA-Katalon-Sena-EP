@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Marketing</name>
+   <tag></tag>
+   <elementGuidId>d355388a-e82a-40f9-b8c3-f730461105d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='job-opportunity']/section/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Marketing$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dd280c8-4ab1-4a52-a155-0396ce4125a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white flex items-center border border-brand-darkpink text-brand-darkpink rounded-2xl py-1 px-3 shadow-lg w-4/5 md:w-1/5 cursor-pointer </value>
+      <webElementGuid>b58177a9-badf-4f57-9082-6912e8a1c8fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marketing</value>
+      <webElementGuid>cb6a03ed-0272-4bba-ba33-fe8788edc163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-opportunity&quot;)/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;flex flex-col md:flex-row items-center mb-10 relative z-10&quot;]/div[@class=&quot;bg-white flex items-center border border-brand-darkpink text-brand-darkpink rounded-2xl py-1 px-3 shadow-lg w-4/5 md:w-1/5 cursor-pointer&quot;]</value>
+      <webElementGuid>ba883705-aa28-476b-b0b4-7de9f8ee879b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job-opportunity']/section/div/div</value>
+      <webElementGuid>f5f325c7-b1d4-4d38-9a7d-a6ba3cac1122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posisi Tersedia'])[1]/following::div[1]</value>
+      <webElementGuid>86c73379-8051-4a27-b99c-6dc102346330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#seEzyitu!'])[1]/following::div[3]</value>
+      <webElementGuid>a973326c-96e0-401d-9f45-3a7fc2538d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia maksimal 35 Tahun.'])[1]/preceding::div[1]</value>
+      <webElementGuid>a8aed27d-d6fc-4c14-a371-605e155c5e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan minimal S1'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae344d6d-f206-4a4a-a7c0-fdb260479296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div</value>
+      <webElementGuid>0fca5882-5f81-46c3-b809-5e1ab6f30849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Marketing' or . = 'Marketing')]</value>
+      <webElementGuid>9c2da5b8-a608-422b-99eb-83e9a638c6e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

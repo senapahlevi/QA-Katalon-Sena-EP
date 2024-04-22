@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Perusahaan (Opsional)_customer_company</name>
+   <tag></tag>
+   <elementGuidId>aba1b054-2b9d-4122-8ea8-5af37292049c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='customer_company']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;customer_company&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nama Perusahaan Anda&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a406d688-3da9-48fc-9955-2a2e9b5070ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>customer_company</value>
+      <webElementGuid>632096f9-9e24-44c5-8680-67f5c00fd450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b17b403d-9b24-4b6b-a421-6b6ef0a54bc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder-gray-4 placeholder-italic shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light</value>
+      <webElementGuid>9fdb254e-ea69-4161-974e-f52c814b597f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nama Perusahaan Anda</value>
+      <webElementGuid>58567ad4-703c-431a-b302-dc664e92bb0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/div[@class=&quot;flex-col justify-content-center mb-26 sm-text-center&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;lg:mx-72 sm:mx-full&quot;]/form[1]/div[@class=&quot;mb-6&quot;]/input[@class=&quot;placeholder-gray-4 placeholder-italic shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light&quot;]</value>
+      <webElementGuid>0959fa88-8224-4d87-9734-33566bb89d98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='customer_company']</value>
+      <webElementGuid>dd7ce5c2-73f1-4fc7-b45f-d70d51d1866f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div[2]/form/div[4]/input</value>
+      <webElementGuid>49c48fb4-d149-454d-8c27-0f54558028aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>f9b7bc37-f989-411f-8c2a-745326e21b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'customer_company' and @type = 'text' and @placeholder = 'Nama Perusahaan Anda']</value>
+      <webElementGuid>37ef9d63-a1e2-4b70-8fbb-a0e9131af1dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

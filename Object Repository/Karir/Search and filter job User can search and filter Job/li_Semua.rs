@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Semua</name>
+   <tag></tag>
+   <elementGuidId>a8b77b10-54af-46b7-8a75-97e3e5e7c5dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='job-opportunity']/section/div/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.jobopportunity_gray__PPgRG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Semua&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ab049661-27ec-46ca-bee7-474e82b1f108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jobopportunity_gray__PPgRG</value>
+      <webElementGuid>ec1bb3eb-a9ec-4dc1-98d9-f0d33fa413c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua</value>
+      <webElementGuid>8f30e67f-7c6e-4cec-952c-1593cbe1dda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-opportunity&quot;)/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;flex flex-col md:flex-row items-center mb-10 relative z-10&quot;]/div[@class=&quot;absolute bg-white inset-x-auto md:right-0 top-full md:top-3/4 mt-2 border border-brand-darkpink text-brand-darkpink rounded-2xl py-1 px-3 shadow-lg w-4/5 md:w-1/5&quot;]/ul[@class=&quot;jobopportunity_department__7MTtJ&quot;]/li[@class=&quot;jobopportunity_gray__PPgRG&quot;]</value>
+      <webElementGuid>b29ac483-4ae4-4803-bba7-5cbd882565ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job-opportunity']/section/div/div[2]/ul/li</value>
+      <webElementGuid>06b5901f-15bb-4e0d-b359-188ececc5f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posisi Tersedia'])[1]/following::li[1]</value>
+      <webElementGuid>0c7767ac-cf7d-4d0b-a560-8e2a0be74061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#seEzyitu!'])[1]/following::li[1]</value>
+      <webElementGuid>fd37a793-90c4-4dc4-9838-eb5f50a86289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claims'])[1]/preceding::li[1]</value>
+      <webElementGuid>d258fa4b-85c2-44c0-9522-6f6a73554af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing'])[1]/preceding::li[2]</value>
+      <webElementGuid>4486d9b0-f700-4fd4-b1c9-bb2b48e8576c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li</value>
+      <webElementGuid>796de794-bbb0-42b9-81ca-575a98cd4c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Semua' or . = 'Semua')]</value>
+      <webElementGuid>2f23da05-7063-49ba-9e47-c8e6be214ad5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Polis991024000210Invoiceord20244211037</name>
+   <tag></tag>
+   <elementGuidId>6e617b16-e42c-438f-8126-d7c4cbd63998</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/div[2]/div[2]/div/div/div/div/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Polis: 991024000210 Invoice: ord20244211037&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d6e368ea-4397-4441-afaa-7dcad1002f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 py-7 text-sm text-gray-2 whitespace-nowrap text-left </value>
+      <webElementGuid>9c8665ad-c013-4015-ba5b-b74ebeeff5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Polis:991024000210Invoice:ord20244211037</value>
+      <webElementGuid>33a8c029-84b0-459b-9a07-f4086ae2b5a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 bg-white rounded overflow-hidden shadow-card&quot;]/div[@class=&quot;py-7 px-5.5&quot;]/div[@class=&quot;mt-10&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8&quot;]/div[@class=&quot;py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8&quot;]/div[@class=&quot;overflow-hidden shadow-card rounded-lg&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-5&quot;]/tbody[@class=&quot;bg-white divide-y divide-gray-6&quot;]/tr[1]/td[@class=&quot;px-6 py-7 text-sm text-gray-2 whitespace-nowrap text-left&quot;]</value>
+      <webElementGuid>adfa6b70-734f-4613-a9df-a6c8d005fea6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div[2]/div[2]/div/div/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>2cacce30-f452-4e96-8523-37fc614859e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opsi'])[1]/following::td[3]</value>
+      <webElementGuid>94e777ca-0b9d-44d7-9e1d-6f4e8e086cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[5]/following::td[3]</value>
+      <webElementGuid>fb9e6bd2-b052-42cd-b1aa-cd32b00c9954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Accident'])[1]/preceding::td[1]</value>
+      <webElementGuid>2fa9780a-3f3e-4564-8a49-75a8dbb4ebad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Polis:']/parent::*</value>
+      <webElementGuid>ab108d33-574f-416c-a73b-6e2741525cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>4f35901a-d248-47c1-9cf5-259ce19cbd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Polis:991024000210Invoice:ord20244211037' or . = 'Polis:991024000210Invoice:ord20244211037')]</value>
+      <webElementGuid>813800b4-8e5f-41a7-80bf-fdd902f94460</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

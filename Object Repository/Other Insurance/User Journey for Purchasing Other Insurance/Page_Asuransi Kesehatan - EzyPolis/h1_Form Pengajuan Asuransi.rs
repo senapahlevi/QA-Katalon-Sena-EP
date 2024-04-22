@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Form Pengajuan Asuransi</name>
+   <tag></tag>
+   <elementGuidId>c9b4ccff-2358-4f76-ad02-d4c182ad89f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Form Pengajuan Asuransi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>30238ae3-a412-4711-b357-e0db97599e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-2.5 relative text-xl text-gray-2 uppercase tracking-wide text-center after:absolute after:bottom-0 after:inset-x-0 after:mx-auto after:translate-y-2.5 after:w-13 after:h-1 after:bg-brand-pink after:rounded-lg font-bold</value>
+      <webElementGuid>6418ab17-8b81-4529-90f5-e655ccca4851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Form Pengajuan Asuransi</value>
+      <webElementGuid>02f7a124-fca5-4842-bf86-cdca67c91d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/div[@class=&quot;flex-col justify-content-center mb-26 sm-text-center&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;inline-flex flex-col items-center&quot;]/h1[@class=&quot;mb-2.5 relative text-xl text-gray-2 uppercase tracking-wide text-center after:absolute after:bottom-0 after:inset-x-0 after:mx-auto after:translate-y-2.5 after:w-13 after:h-1 after:bg-brand-pink after:rounded-lg font-bold&quot;]</value>
+      <webElementGuid>b5d0d0d6-27e8-493c-92d9-28a9cbbc0782</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='']</value>
+      <webElementGuid>0f16a10e-8353-459b-9402-646808f19e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div/h1</value>
+      <webElementGuid>d4c06b2c-f899-4350-9b99-68371db91f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::h1[1]</value>
+      <webElementGuid>6ef3c350-ffba-40ba-a2f7-b95f1de9f67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::h1[1]</value>
+      <webElementGuid>7deae9e6-1e64-4c11-a8e1-824ec83bde41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Asuransi'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9e5b5453-21d3-4f03-a3ee-dde751665e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Form Pengajuan Asuransi']/parent::*</value>
+      <webElementGuid>afe13c70-ac5e-4755-a84d-8367ee76288f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>6ca5fabc-b273-465a-a915-9a42c51142a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Form Pengajuan Asuransi' or . = 'Form Pengajuan Asuransi')]</value>
+      <webElementGuid>d3e5dbe8-3dd4-41f7-9a37-d1ff563645aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
