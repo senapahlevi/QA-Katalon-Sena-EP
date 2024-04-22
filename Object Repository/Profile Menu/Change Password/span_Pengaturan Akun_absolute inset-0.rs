@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pengaturan Akun_absolute inset-0</name>
+   <tag></tag>
+   <elementGuidId>1ecfb970-363e-4d55-b512-5a310af11e13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/nav/ul/li[2]/a/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pengaturan Akun&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7322e676-cbe1-476e-afc7-191f910f5c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0</value>
+      <webElementGuid>b4984377-85e4-4eba-84fb-ee6fd6c405ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0ebf3d57-977a-442e-b930-ba140d5ab956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 bg-white rounded overflow-hidden shadow-card&quot;]/nav[1]/ul[@class=&quot;flex shadow-sm&quot;]/li[@class=&quot;min-w-0 flex-1 inline-flex justify-center items-center relative py-5 px-4 sm:px-8 lg:px-16 lg:flex-initial&quot;]/a[1]/a[@class=&quot;link_base-link__fSADh text-sm text-brand-pink font-bold uppercase tracking-wide&quot;]/span[@class=&quot;absolute inset-0&quot;]</value>
+      <webElementGuid>f892c5ba-4f19-4ea9-8738-8e6c9c24e28a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/nav/ul/li[2]/a/a/span</value>
+      <webElementGuid>258b4ec6-cfc3-4765-a7a4-f66c9c19890a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/a/span</value>
+      <webElementGuid>834b9e13-4ea3-415d-8f6c-fa69470bfd6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

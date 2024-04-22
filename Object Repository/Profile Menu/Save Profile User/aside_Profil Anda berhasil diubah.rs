@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aside_Profil Anda berhasil diubah</name>
+   <tag></tag>
+   <elementGuidId>d64c8b46-d454-4a36-8021-0d4319cc99c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/div/div/form/div[2]/div/aside</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>aside</value>
+      <webElementGuid>df171039-bca4-4dab-9623-cb42c5c16069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative p-5 border-l-[3px] border-transparent rounded-r text-sm border-l-brand-green bg-brand-green/25 text-brand-green</value>
+      <webElementGuid>5f018f17-c03f-41d9-aec4-8a57ed773293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profil Anda berhasil diubah</value>
+      <webElementGuid>1652e59a-65c7-4528-9951-65222b783805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 bg-white rounded overflow-hidden shadow-card&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;scroll-to-top max-w-4xl mx-auto px-4 sm:px-6 lg:px-8&quot;]/form[@class=&quot;lg:grid lg:grid-cols-3 lg:gap-x-15&quot;]/div[@class=&quot;lg:col-span-2&quot;]/div[@class=&quot;mb-6&quot;]/aside[@class=&quot;relative p-5 border-l-[3px] border-transparent rounded-r text-sm border-l-brand-green bg-brand-green/25 text-brand-green&quot;]</value>
+      <webElementGuid>3bd6c9f7-445f-4339-a21f-b847c050c8aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div/div/form/div[2]/div/aside</value>
+      <webElementGuid>a97edeed-15c1-4597-b71a-0c99f2800114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Foto Profil'])[1]/following::aside[1]</value>
+      <webElementGuid>00680240-cbc7-41d4-9e37-b7174c59439e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan Akun'])[1]/following::aside[1]</value>
+      <webElementGuid>3304b58e-cea0-43b3-9543-19d816da0999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Biodata Diri'])[1]/preceding::aside[1]</value>
+      <webElementGuid>860601ab-9700-4da2-bcca-4608c2c70ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::aside[1]</value>
+      <webElementGuid>4b81cb15-2eef-4aed-88af-d1e75c596d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside</value>
+      <webElementGuid>3503d878-51b6-45ff-8912-3ff8c499c4f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//aside[(text() = 'Profil Anda berhasil diubah' or . = 'Profil Anda berhasil diubah')]</value>
+      <webElementGuid>637f4391-e484-43f9-b2fc-9178889ac494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aside_Password Anda berhasil diubah</name>
+   <tag></tag>
+   <elementGuidId>16b22e02-4821-4a17-ac8c-aa00671c4614</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/aside</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>aside</value>
+      <webElementGuid>620aca66-210a-45b6-9c4b-1c5917593280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative p-5 border-l-[3px] border-transparent rounded-r text-sm border-l-brand-green bg-brand-green/25 text-brand-green</value>
+      <webElementGuid>0603a899-505c-4a3d-9ec2-a5d4112e574b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password Anda berhasil diubah</value>
+      <webElementGuid>362fe776-7a67-4147-9d29-179f4501b9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 bg-white rounded overflow-hidden shadow-card&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;scroll-to-top max-w-xl mx-auto px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;mb-6&quot;]/aside[@class=&quot;relative p-5 border-l-[3px] border-transparent rounded-r text-sm border-l-brand-green bg-brand-green/25 text-brand-green&quot;]</value>
+      <webElementGuid>49456ab3-d588-4073-84c5-892c69685412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/aside</value>
+      <webElementGuid>324a9a06-ec02-47cd-a76f-dddfd6b26578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan Akun'])[1]/following::aside[1]</value>
+      <webElementGuid>6b3823c5-a8c8-4982-89b5-cb20dd7ea335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Saya'])[1]/following::aside[1]</value>
+      <webElementGuid>2139dda3-b2fb-44cc-b7da-33759813df74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/preceding::aside[1]</value>
+      <webElementGuid>68a7943e-e0c5-4236-a4d6-36c83d81a2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Lama'])[1]/preceding::aside[1]</value>
+      <webElementGuid>8c79d8c4-31ae-4b02-8d3c-d776d3cbd9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside</value>
+      <webElementGuid>266401ad-bb53-463a-b9a2-5fd58172b03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//aside[(text() = 'Password Anda berhasil diubah' or . = 'Password Anda berhasil diubah')]</value>
+      <webElementGuid>61062bf9-0063-47c3-a52b-0d3b0cb30434</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

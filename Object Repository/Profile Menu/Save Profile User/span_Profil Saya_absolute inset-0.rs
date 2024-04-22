@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profil Saya_absolute inset-0</name>
+   <tag></tag>
+   <elementGuidId>5405ac4e-e79d-415e-896b-630fb1284c6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/nav/ul/li/a/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.absolute.inset-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Settings menu&quot;i >> internal:text=&quot;Profil Saya&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8d88ed4-5d42-4c2b-be9d-b4feda8f6734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0</value>
+      <webElementGuid>ee23998e-2026-485d-b39f-818fe7fee1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2a014022-4243-48e2-b92f-31a27ee68fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 bg-white rounded overflow-hidden shadow-card&quot;]/nav[1]/ul[@class=&quot;flex shadow-sm&quot;]/li[@class=&quot;min-w-0 flex-1 inline-flex justify-center items-center relative py-5 px-4 sm:px-8 lg:px-16 lg:flex-initial&quot;]/a[1]/a[@class=&quot;link_base-link__fSADh text-sm text-brand-pink font-bold uppercase tracking-wide before:h-0.5 before:absolute before:inset-x-0 before:bottom-0 before:bg-brand-pink&quot;]/span[@class=&quot;absolute inset-0&quot;]</value>
+      <webElementGuid>91fafe67-d5c2-4f0a-a586-92204617a6c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/nav/ul/li/a/a/span</value>
+      <webElementGuid>5cc4564e-c792-4f31-a9c2-05d3f47dafb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>bbc9dc0e-c798-411b-8274-8cf394aed8ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
