@@ -29,5 +29,6 @@ WebUI.sendKeys(findTestObject('Object Repository/Karir/Search and filter job Use
 
 WebUI.click(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/div_ClaimFulltimeKualifikasi Pekerjaan Lore_a3a947'))
 
+
 WebUI.closeBrowser()
 
