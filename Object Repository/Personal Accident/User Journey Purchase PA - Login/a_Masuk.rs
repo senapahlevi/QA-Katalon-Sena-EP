@@ -6,12 +6,12 @@
    <elementGuidId>f2507350-9369-4125-a4b7-2b8df82542d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/header/div[2]/nav[2]/ul/li/a/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/header/div[2]/nav[2]/ul/li/a/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2b7965d6-303a-4be8-bfd8-d5ba6d7ac12b</webElementGuid>
+      <webElementGuid>61457978-92e7-4b8d-b391-e0c390803a4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>link_base-link__fSADh relative px-1 py-2 inline-flex text-sm text-gray-3 hover:text-gray-2</value>
-      <webElementGuid>4ae866e3-bf86-4545-87d3-4ab78c618447</webElementGuid>
+      <webElementGuid>bc82e3c4-3101-44da-bdb8-faa6d7baadfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>776c5484-b7bf-49a2-b7fd-5b82a8fb93a8</webElementGuid>
+      <webElementGuid>e21dffd7-8389-45d3-bec2-de6acfe8de66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/header[@class=&quot;layout_header__VsoJR&quot;]/div[@class=&quot;max-w-8xl h-[58px] mx-auto flex items-center justify-between px-4 sm:px-6 lg:px-8 relative&quot;]/nav[2]/ul[@class=&quot;-mx-1&quot;]/li[1]/a[1]/a[@class=&quot;link_base-link__fSADh relative px-1 py-2 inline-flex text-sm text-gray-3 hover:text-gray-2&quot;]</value>
-      <webElementGuid>f81777d3-2915-41c7-a133-83673f55293f</webElementGuid>
+      <webElementGuid>3d55e83b-4364-4f4a-940a-05af6be4f789</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/header/div[2]/nav[2]/ul/li/a/a</value>
-      <webElementGuid>dd1effea-1d79-411b-b23e-0d334d8a4904</webElementGuid>
+      <webElementGuid>20546aef-33fa-4e35-98d0-c9e4fc8fe234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Masuk')]</value>
-      <webElementGuid>99299c35-cc89-4519-bfb1-f41bb7456c5f</webElementGuid>
+      <webElementGuid>d7c30b1b-ef65-4abd-a84e-ebcddbf3959b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[2]</value>
-      <webElementGuid>336c260a-63c8-40a1-9206-ee9aab5cf6ee</webElementGuid>
+      <webElementGuid>af77a44b-83c7-4c9a-96d1-6b25a878c822</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/following::a[2]</value>
-      <webElementGuid>9a3c4d48-ac2e-42a9-b098-957a766f14a6</webElementGuid>
+      <webElementGuid>30247f51-4aee-4390-8a4d-6b410d853b08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/2'])[1]/preceding::a[1]</value>
-      <webElementGuid>8ed3f7d3-986c-4ad8-be61-ffba04a353c0</webElementGuid>
+      <webElementGuid>66426f18-9c23-4a01-bdcd-dada4aa0ca8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/preceding::a[1]</value>
-      <webElementGuid>99b5da40-73e0-4b3a-87ac-43bf96878fcc</webElementGuid>
+      <webElementGuid>1898691b-5b11-490a-8713-095dc082d105</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>1d2ffe09-e43e-49f1-a2ed-e8e8e45f5f67</webElementGuid>
+      <webElementGuid>3f1dc90b-e358-426c-a717-1022b98db582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav[2]/ul/li/a/a</value>
-      <webElementGuid>267076a3-15fe-4295-9ea3-ad191074f703</webElementGuid>
+      <webElementGuid>52a4cf68-9c64-4a07-a78e-c3399b0da1d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>dae21b22-8ec5-4b30-a547-f93373ed5707</webElementGuid>
+      <webElementGuid>7d181f02-d77d-4a3b-86db-f6e70c0280a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

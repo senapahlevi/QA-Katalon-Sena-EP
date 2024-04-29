@@ -6,12 +6,12 @@
    <elementGuidId>16951b2d-ab13-4b19-bfcf-4be35893feb2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='react-select-cities-input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#react-select-cities-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='react-select-cities-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b52573a1-455a-41cf-9943-6175405907ad</webElementGuid>
+      <webElementGuid>3b5fd8b0-c0f2-4f93-b03a-a096e2200b0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>617321b3-1a09-4a17-81d3-6673bae4f49e</webElementGuid>
+      <webElementGuid>0aad1437-898b-4949-b2ae-74b21e22ca26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c8f4f597-99ea-4d0a-a2a1-7eed2e73df0d</webElementGuid>
+      <webElementGuid>f54f8247-3229-49ac-9797-515a5a73d0ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>bc13d1cf-b655-4cfb-9b45-ba9bc1fb62b7</webElementGuid>
+      <webElementGuid>f78748c7-88f1-4d8f-bbd4-48c49470c289</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-cities-input</value>
-      <webElementGuid>e0d9fbec-1d85-4f85-87b9-e3c02a188f13</webElementGuid>
+      <webElementGuid>cf76bbae-e59a-414f-a8e2-9e2cadac3c09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>eaf1c992-be94-4401-9b13-75c2ee7fa55d</webElementGuid>
+      <webElementGuid>d72171ab-ea59-4a6f-b6b9-6cacf5cdbc5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>a015d83b-9cd5-4ede-a077-8bc10b564366</webElementGuid>
+      <webElementGuid>002295c0-506b-40c4-8bef-c0886cccdd52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4416988a-c243-4261-8f2f-e026d8733d76</webElementGuid>
+      <webElementGuid>f745bcea-b6cd-4ec7-a43b-132f535b8c02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>e06104ad-0fc1-40d3-aad5-c8b72ba4c710</webElementGuid>
+      <webElementGuid>7318f624-d345-4029-a1de-018fe3c20cb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-cities-input&quot;)</value>
-      <webElementGuid>d8a94d5c-152f-4397-b1b8-fb8aa057a14f</webElementGuid>
+      <webElementGuid>2dcd88cf-a201-437a-8c15-7ed45355c17b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='react-select-cities-input']</value>
-      <webElementGuid>31b51afb-91d5-4a4b-b7c1-795644b88f36</webElementGuid>
+      <webElementGuid>43c94b8d-87e4-4338-981a-c79da42b1384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[9]/div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>efe5df64-1ee8-487e-83bf-c0dea1bf90a4</webElementGuid>
+      <webElementGuid>5a1d09d5-e453-4966-9f6b-12bdea13e70a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>269f785f-83fd-4234-a70d-7c02daf47af2</webElementGuid>
+      <webElementGuid>fb791011-1629-4d37-b6a5-7cc88f90459b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'react-select-cities-input' and @type = 'text']</value>
-      <webElementGuid>412f9fb8-b1cf-42bd-9a48-81a5e26af3ed</webElementGuid>
+      <webElementGuid>0faa482f-c310-4dbb-92b9-7a43d4fe02e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

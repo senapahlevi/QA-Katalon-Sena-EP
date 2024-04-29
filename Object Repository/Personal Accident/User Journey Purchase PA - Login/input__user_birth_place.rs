@@ -6,12 +6,12 @@
    <elementGuidId>3e24b5e6-c766-4d99-9f2a-b04674768b8a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='user_birth_place']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#user_birth_place</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='user_birth_place']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ab0cb4cf-98b7-4589-8f71-140d3afb7b2c</webElementGuid>
+      <webElementGuid>759c1457-6c48-49ba-ad16-2df4bfa8f91c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>user_birth_place</value>
-      <webElementGuid>6cdeb220-acb6-4fe7-80c4-bee8bc6bc267</webElementGuid>
+      <webElementGuid>28c41266-d8ba-474a-a153-5ae97ece9122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>569a411c-28e4-463e-a9e8-86e9d1addead</webElementGuid>
+      <webElementGuid>a70f6cdf-4fbd-4382-ade6-719ef219b34c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user_birth_place</value>
-      <webElementGuid>f51389db-f297-4a47-b44f-f91c6c7fe297</webElementGuid>
+      <webElementGuid>668b2790-7c64-4584-bbf2-35c178c2bd2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: Jakarta</value>
-      <webElementGuid>d0c6960b-bc52-4935-97f2-d75fd355ba90</webElementGuid>
+      <webElementGuid>a2a4681c-9fa9-419a-a8b6-51982026196c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>90a505e1-0d60-4704-9224-747a344a9bc7</webElementGuid>
+      <webElementGuid>4bf10056-18a7-488e-9e0e-8895d2cc19ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user_birth_place&quot;)</value>
-      <webElementGuid>0b09f753-c6ec-4411-8bb2-e5759af9d541</webElementGuid>
+      <webElementGuid>f84f4b50-f87e-4f57-8172-84001dd5fb28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='user_birth_place']</value>
-      <webElementGuid>e4e40c1b-3502-4db5-a80d-2dd1b5aaca4d</webElementGuid>
+      <webElementGuid>693a2c5c-3ef2-4248-aa14-122361d573ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[3]/div/input</value>
-      <webElementGuid>76377c7d-3a0f-4430-ba76-8728ded3fb90</webElementGuid>
+      <webElementGuid>e9386be4-0085-4cad-810c-794b7401bdac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>46d6d1ee-d62c-4f24-9092-80ed6b51b314</webElementGuid>
+      <webElementGuid>2eaf8a0f-6c5d-4fea-ac46-77a790b7a76b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'user_birth_place' and @type = 'text' and @name = 'user_birth_place' and @placeholder = 'Contoh: Jakarta']</value>
-      <webElementGuid>a7d511f2-84f8-4d98-9cd7-b75eac263f32</webElementGuid>
+      <webElementGuid>07b279f7-285c-44f9-b06b-cc540ebe9b6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,32 +21,81 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://staging.ezypolis.com:3001/')
 
-WebUI.click(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_EzyPolis - Asuransi SeEzyItu/a_Produk Asuransi Lainnya'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/img'))
 
-WebUI.click(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Pilih Asuransi Terbaikmu - EzyPolis/div_Asuransi Kesehatan Merupakan asuransi y_05a988'))
+WebUI.verifyElementText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Rp75.000'), 'Rp75.000')
 
-WebUI.click(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Pilih Asuransi Terbaikmu - EzyPolis/button_Ajukan Sekarang'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/button_Selanjutnya'))
 
-WebUI.click(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/h1_Form Pengajuan Asuransi'))
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__vehicle_number'), 
+    'b 123 ctn')
 
-WebUI.setText(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Nama_customer_name'), 
-    'Sena Pahlevi Ristiawanto')
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__hometown'), 
+    'Tangerang')
 
-WebUI.setText(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Email_customer_email'), 
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__destination_city'), 
+    'Semarang')
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/button_Selanjutnya'))
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_first_name'), 
+    'Sena Pahlevi')
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/p_75.000IDR'))
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_last_name'), 
+    'Pahlevi')
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_birth_place'), 
+    'Jakarta')
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_birth_date'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_birth_date'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_7'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Pilih Jenis Kelamin'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Laki-laki'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Pilih Kewarganegaraan'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Indonesia'))
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_address'), 
+    'Jl kemanggisan no 8')
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Pilih Provinsi'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Bangka Belitung'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input_Pilih Kota_react-select-cities-input'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Kab. Bangka Barat'))
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input_Kode Pos(opsional)_zipcode'), 
+    '15131')
+
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_email'), 
     'senapahlevi1@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Nama Perusahaan (Opsional)_customer_company'), 
-    'PT. ABCD')
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_phone'), 
+    '0812834912321')
 
-WebUI.setText(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Nomor Handphone_customer_phone'), 
-    '081232213242')
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Select'))
 
-WebUI.setText(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/textarea_Catatan (Opsional)_customer_note'), 
-    'Saya ingin asuransi kesehatan .... terkait ....')
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_KTP'))
 
-WebUI.click(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/button_Kirim'))
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/input__user_identity_num'), 
+    '8998123891289421')
 
-WebUI.click(findTestObject('Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/button_Selanjutnya'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/button_Konfirmasi  Bayar'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Purchase according to the package and price PA/div_Rp75.000'))
 
 WebUI.closeBrowser()
 

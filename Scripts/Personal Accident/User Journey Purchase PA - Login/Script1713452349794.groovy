@@ -25,6 +25,9 @@ WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Pur
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/img'))
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_SelanjutnyaAsuransi Kecelakaan DiriPT M_494798'), 
+    0)
+
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_SelanjutnyaAsuransi Kecelakaan DiriPT M_494798'))
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya'))

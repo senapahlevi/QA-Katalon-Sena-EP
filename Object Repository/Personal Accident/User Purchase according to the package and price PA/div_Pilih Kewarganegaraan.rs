@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Kewarganegaraan</name>
+   <tag></tag>
+   <elementGuidId>b98d2b42-bce7-4725-b131-edbd9f7b3e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__placeholder.css-1wa3eu0-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pilih Kewarganegaraan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cdf53ce1-96ec-40ce-bb25-00c4dce45621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__placeholder css-1wa3eu0-placeholder</value>
+      <webElementGuid>5098af35-501b-41c9-b242-ebbfc0e84857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kewarganegaraan</value>
+      <webElementGuid>99f0028f-f4e5-446f-ad77-ef3de213b821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]/div[@class=&quot;react-select__placeholder css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>32b941ea-4eae-4147-9a7b-3f54b9a99f87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div/div</value>
+      <webElementGuid>a3ef284e-c214-438d-9de6-f3ea087fe37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::div[3]</value>
+      <webElementGuid>ca4d9494-68b4-4945-92b2-7ed9402505b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asing'])[1]/preceding::div[4]</value>
+      <webElementGuid>fb7fb931-dea2-4e8c-b1c2-46b26709c71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Kewarganegaraan']/parent::*</value>
+      <webElementGuid>c702f20f-2cde-4001-9797-fd073331ba4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div</value>
+      <webElementGuid>42bb2c1c-f163-4695-b686-e3a077169824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Kewarganegaraan' or . = 'Pilih Kewarganegaraan')]</value>
+      <webElementGuid>5862b24f-fc2f-44f5-90a3-568a434aa8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div</value>
+      <webElementGuid>9e969cb9-d1a9-4b4f-be77-2f8549195359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::div[4]</value>
+      <webElementGuid>0454b250-fe6e-466a-af21-bd3e5bc2199a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div</value>
+      <webElementGuid>8f6d0f32-2f8a-4ff5-b689-9a88d6e7ada6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

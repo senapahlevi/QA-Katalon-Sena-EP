@@ -6,19 +6,19 @@
    <elementGuidId>9111d359-0178-4f67-9fa1-79276362e211</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='21 April 2024']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;customer_phone&quot;]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@name='customer_phone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;DD/MM/YYYY&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Nomor Handphone&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2584355f-7c24-4398-9f44-53ca688eb1cc</webElementGuid>
+      <webElementGuid>cfaaafd2-376d-4567-95d6-222e4fd645c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>0376b44d-6405-49a6-bcac-621d17a3c0ea</webElementGuid>
+      <value>tel</value>
+      <webElementGuid>dc53c52c-98de-48e6-92e9-49c3420679e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-field_field-input__Z28kU !rounded-r-none</value>
-      <webElementGuid>0acddea0-c95f-44af-b8da-62d5994d1736</webElementGuid>
+      <value>placeholder-gray-4 placeholder-italic shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light</value>
+      <webElementGuid>8f4b242b-4703-4092-8d16-1a629f91794a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>DD/MM/YYYY</value>
-      <webElementGuid>ddea1526-f5fe-4ae0-9401-e86fd832ac2f</webElementGuid>
+      <value>Nomor Handphone</value>
+      <webElementGuid>82789b3c-a758-4e92-82b1-ca4d4a0b9b61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,11 +68,163 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 w-full max-w-3xl mx-auto&quot;]/div[@class=&quot;mt-10&quot;]/div[@class=&quot;relative w-full max-w-xs mx-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative flex&quot;]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;form-field_field-input__Z28kU !rounded-r-none&quot;]</value>
-      <webElementGuid>63a7b71e-1bcf-4523-8c24-55f63699cfe9</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/div[@class=&quot;flex-col justify-content-center mb-26 sm-text-center&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;lg:mx-72 sm:mx-full&quot;]/form[1]/div[@class=&quot;mb-6&quot;]/input[@class=&quot;placeholder-gray-4 placeholder-italic shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light&quot;]</value>
+      <webElementGuid>485b31ce-0fb5-4de2-9758-9f6d4a786eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>customer_phone</value>
+      <webElementGuid>e1bd06c2-842d-40b6-a238-45659a7fce37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>minlength</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>b6f1ad81-509c-4acb-9896-204be2c93a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>bb415e9f-7011-479b-b79a-71731d987721</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='customer_phone']</value>
+      <webElementGuid>95a1bb2a-ccec-423d-ac29-2066c68bea7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div[2]/form/div[5]/input</value>
+      <webElementGuid>9dade0b7-59e4-4b05-9fe2-30711761f0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/input</value>
+      <webElementGuid>244fcb22-ab64-46ee-a7f1-3962a419ef53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel' and @placeholder = 'Nomor Handphone' and @name = 'customer_phone']</value>
+      <webElementGuid>60ee4fcd-cc24-4d83-b97d-ba15ee3633e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='customer_email']</value>
+      <webElementGuid>465a0f1a-e0c7-4833-96c9-816be835f168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div[2]/form/div[3]/input</value>
+      <webElementGuid>cc146939-75ba-4ba3-8d1b-98a6f4cb1591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>26ce352d-4112-4730-91a4-798d86cdcbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @placeholder = 'Email Aktif Anda (Contoh : john@gmail.com)' and @name = 'customer_email']</value>
+      <webElementGuid>30a5a804-e359-472c-8f4e-7a01479d8a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='customer_company']</value>
+      <webElementGuid>73a62af1-425c-43e3-b672-082969dd66cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div[2]/form/div[4]/input</value>
+      <webElementGuid>a35e7d81-8767-4cb4-bf76-951831f92a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>53aba1eb-4bee-471e-8cae-0077422679a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'customer_company' and @type = 'text' and @placeholder = 'Nama Perusahaan Anda']</value>
+      <webElementGuid>97b7f8ed-7634-47e8-8436-6e4e02347779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='customer_name']</value>
+      <webElementGuid>8453b42d-45a5-4802-ade6-c1ab69bb9d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/section/div[2]/form/div[2]/input</value>
+      <webElementGuid>b8c47aec-848b-41fd-9435-cdf74ccac95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>9577624d-e138-4ddd-b1de-a94784346084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Nama Lengkap Anda (Sesuai KTP)' and @name = 'customer_name']</value>
+      <webElementGuid>37e4e8a7-cbf1-4b54-af1e-a73ae0cf0ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

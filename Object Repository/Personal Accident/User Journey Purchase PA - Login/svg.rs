@@ -6,19 +6,19 @@
    <elementGuidId>ea20270a-5a77-4a5b-b463-9a0ce883c49a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual account'])[1]/following::*[name()='svg'][1]</value>
+         <key>CSS</key>
+         <value>svg</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.collapsible-payment--multiple__body > svg</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='EZYPOLIS'])[1]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.collapsible-payment--multiple__body > svg >> nth=0</value>
+         <value>#header >> internal:role=img >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>cdbb69a9-1e93-4d87-9542-abfc79854494</webElementGuid>
+      <webElementGuid>7bb1d081-146e-44d9-ba8a-4faddaf54cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>4a17762a-9485-491c-adeb-6618d42508df</webElementGuid>
+      <webElementGuid>699be44b-8b49-4249-813c-2564559e53a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>width</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>c6796a6d-2907-4fa0-9e35-4938a005f855</webElementGuid>
+      <webElementGuid>6399cef0-2293-4904-87fc-71cb5aa086e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>6b803d52-1179-4d29-9fb4-634cddacc935</webElementGuid>
+      <webElementGuid>433dec11-2254-4787-9a81-fe0e9f002b78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 16 16</value>
-      <webElementGuid>245516ca-aee7-4257-bf17-dadb349c423b</webElementGuid>
+      <webElementGuid>6317e07d-008c-40a3-811e-da03c95517ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,26 +69,42 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>2b441f38-f5d2-49c7-a007-6a6b5f5db0c5</webElementGuid>
+      <webElementGuid>67def8a2-0c7f-45af-be79-9d28f3c8b062</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-container-list&quot;]/div[2]/div[@class=&quot;collapsible-payment&quot;]/div[@class=&quot;collapsible collapsible-payment--multiple&quot;]/div[@class=&quot;collapse-button collapsible-payment--multiple&quot;]/div[@class=&quot;collapsible-payment--multiple__body&quot;]/svg[1]</value>
-      <webElementGuid>66a9ddac-489b-405c-9b0d-5b9f009fb739</webElementGuid>
+      <value>id(&quot;header&quot;)/div[@class=&quot;title-bar&quot;]/div[@class=&quot;close-snap-button clickable&quot;]/svg[1]</value>
+      <webElementGuid>441e6249-6b56-4fca-82e9-ea79b1445ee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_concat(id(, , snap-midtrans, , ))_po_6b00ce</value>
-      <webElementGuid>cdc71850-944d-46a6-a18c-493c2cc1043a</webElementGuid>
+      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_Syarat dan Ketentuan_popup_1713947298114</value>
+      <webElementGuid>d9ef627a-9027-4916-ba18-e2809e9b6618</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EZYPOLIS'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b2f44784-4c6e-420a-adc1-3826addcc133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>886bdd86-8977-4b12-8e96-6b18377215e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

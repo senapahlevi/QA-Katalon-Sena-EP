@@ -6,12 +6,12 @@
    <elementGuidId>a8b2dbce-413f-49ff-ad06-6d5fc559020f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]/div/div/span/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img[alt=&quot;Asuransi Kecelakaan Diri&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]/div/div/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a62b4c0e-13c3-471e-8d87-640ab53e4d8b</webElementGuid>
+      <webElementGuid>43a937dd-e1ab-4eac-a256-504e5d28781d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Asuransi Kecelakaan Diri</value>
-      <webElementGuid>bfb2d1e7-45d8-4c91-81eb-5851c80297c1</webElementGuid>
+      <webElementGuid>e268c0ec-5220-4235-b288-f620777cd57a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/_next/static/media/healthinsurance.92213351.svg</value>
-      <webElementGuid>b8820b1e-04d4-4c95-bb5f-f29ceda9251c</webElementGuid>
+      <webElementGuid>70de4a8e-21f6-4513-b4fa-0223db84f930</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>1492d29d-c64d-4cf2-901d-757f2c1f6014</webElementGuid>
+      <webElementGuid>88e02231-b1c9-4e01-b009-321e4ec949ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>intrinsic</value>
-      <webElementGuid>867d03f0-90d9-4bcc-a67b-4b5d63c746a5</webElementGuid>
+      <webElementGuid>cbf35ee7-17b7-4567-a663-ca9aaddbf1cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>/_next/static/media/healthinsurance.92213351.svg 1x, /_next/static/media/healthinsurance.92213351.svg 2x</value>
-      <webElementGuid>5522ceb1-d863-4e28-a5bc-2a76759f1899</webElementGuid>
+      <webElementGuid>9de0aeae-448e-4733-96ab-bbf7e13e1393</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;section-product-recommendations&quot;)/div[@class=&quot;px-4 sm:px-6 lg:px-8 xs:mt-96 md:mt-96&quot;]/div[@class=&quot;p-8 flex flex-col rounded-[45px] bg-brand-whitegray shadow-md&quot;]/div[@class=&quot;mt-6 w-full max-w-xl mx-auto grid grid-rows-3 sm:grid-rows-1 grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-5&quot;]/a[@class=&quot;link_base-link__fSADh inline-flex flex-col items-center text-gray-2 p-4 rounded-xl transition duration-500 ease-in-out hover:shadow-sm hover:bg-white&quot;]/div[@class=&quot;mb-2.5 relative&quot;]/div[@class=&quot;opacity-100&quot;]/span[1]/img[1]</value>
-      <webElementGuid>cad722c6-f6cb-4b73-933d-19fe9b163fbe</webElementGuid>
+      <webElementGuid>c295e8c4-d652-44a9-85f5-55d015cb265a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]/div/div/span/img</value>
-      <webElementGuid>92d8253a-d6ab-4465-b758-988cf09fce95</webElementGuid>
+      <webElementGuid>72a207dc-9053-4957-b4ca-2f36942550ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Asuransi Kecelakaan Diri']</value>
-      <webElementGuid>2f036ba9-950d-4ea3-9834-1bd9fab21f61</webElementGuid>
+      <webElementGuid>b863aedd-b046-4863-88fd-d747b15b9180</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]/div/div/span/img</value>
-      <webElementGuid>9e65b18e-9fb8-4cc0-9770-6d16071a9d19</webElementGuid>
+      <webElementGuid>be471243-5a41-4442-b4aa-3cc2ba527887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Asuransi Kecelakaan Diri' and @src = '/_next/static/media/healthinsurance.92213351.svg']</value>
-      <webElementGuid>90bfef40-bb66-47cc-a909-2a56e3819508</webElementGuid>
+      <webElementGuid>cf766f39-35ea-4642-9c25-aeff58804dc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

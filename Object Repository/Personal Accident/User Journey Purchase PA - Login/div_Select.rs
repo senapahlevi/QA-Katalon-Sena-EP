@@ -6,12 +6,12 @@
    <elementGuidId>6797b150-f03b-4163-9ec1-54a5991bb7e0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='booking-form']/div/form/div[2]/div/div[13]/div/div/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.react-select__control.react-select__control--is-focused.react-select__control--menu-is-open.css-1pahdxg-control > div.react-select__value-container.css-1hwfws3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='booking-form']/div/form/div[2]/div/div[13]/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ada2eff0-6efb-453f-9f8e-239d3d38d3d3</webElementGuid>
+      <webElementGuid>8d64e6af-e3be-47bc-9c2d-aa00dc8363e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-select__value-container css-1hwfws3</value>
-      <webElementGuid>404cdbdc-6fde-47fd-abb9-15be2b194228</webElementGuid>
+      <webElementGuid>cb4ed50a-252b-47d2-903d-c5a0e495b65b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select...</value>
-      <webElementGuid>e1bae895-2776-4a68-8858-60ef91355aaa</webElementGuid>
+      <webElementGuid>38e56027-5241-4333-9212-3751bc28d531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]</value>
-      <webElementGuid>089b6255-8314-421f-9507-a4020b1262df</webElementGuid>
+      <webElementGuid>6ceeb942-530a-4fd0-ba00-f7f47a47dec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[13]/div/div/div/div</value>
-      <webElementGuid>cb59735c-8e78-4a42-807d-812890a58e52</webElementGuid>
+      <webElementGuid>e64294b7-2bbb-4c14-955f-96868ed98634</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KTP'])[1]/preceding::div[4]</value>
-      <webElementGuid>93479935-e14c-4d58-88e6-2da1e3ccfec2</webElementGuid>
+      <webElementGuid>a951abc6-e6b2-43ba-a00b-516b5e69b944</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div/div/div/div</value>
-      <webElementGuid>9eaaef99-fe88-445d-ae7f-68bba57493d5</webElementGuid>
+      <webElementGuid>fdd2e1be-9770-4aea-b533-9776dd512bc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Select...' or . = 'Select...')]</value>
-      <webElementGuid>ab0512fd-2ce2-45a8-932b-5d6b0466f7bb</webElementGuid>
+      <webElementGuid>71b8e3a3-acda-4c71-a3c3-7e896ac676a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

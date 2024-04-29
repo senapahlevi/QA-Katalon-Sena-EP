@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Produk Asuransi Lainnya</name>
+   <tag></tag>
+   <elementGuidId>401e4527-a4aa-4452-9e4d-56ffb4d48ced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button_btn__6yNqf.button_btn--small__tjCs4.button_btn--solid-primary__1YfXJ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-product-recommendations']/div/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Produk Asuransi Lainnya&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c9f703e2-71f1-41b2-b9ad-3ba67d5a1b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_btn__6yNqf button_btn--small__tjCs4 button_btn--solid-primary__1YfXJ</value>
+      <webElementGuid>fa3f4559-de83-4b30-9ddb-750313492a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/insurance/other-insurance</value>
+      <webElementGuid>daaeac2d-1392-4ab9-b05e-5c1d8798b143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk Asuransi Lainnya</value>
+      <webElementGuid>e3245fcf-8d33-4520-9341-05eab0d3fe47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-product-recommendations&quot;)/div[@class=&quot;px-4 sm:px-6 lg:px-8 xs:mt-96 md:mt-96&quot;]/div[@class=&quot;p-8 flex flex-col rounded-[45px] bg-brand-whitegray shadow-md&quot;]/div[@class=&quot;flex justify-center mt-5&quot;]/a[@class=&quot;button_btn__6yNqf button_btn--small__tjCs4 button_btn--solid-primary__1YfXJ&quot;]</value>
+      <webElementGuid>7d1bab99-1622-4f6c-8181-be3815e58704</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-product-recommendations']/div/div/div[3]/a</value>
+      <webElementGuid>4f9e6317-19d3-42ac-a1e5-2c82569cae09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asuransi Kendaraan'])[1]/following::a[1]</value>
+      <webElementGuid>6f696bfc-1147-4d48-8cf3-73ee06b7a422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asuransi Kecelakaan Diri'])[1]/following::a[2]</value>
+      <webElementGuid>23c7b1ce-b8c7-44b7-986e-b6022962cdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[1]/preceding::a[1]</value>
+      <webElementGuid>c473adff-85d8-4976-9255-06bbe8d50cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/insurance/other-insurance')]</value>
+      <webElementGuid>a01b817c-a975-42b9-a4e6-6aea07a3d1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>57fab509-c356-428e-886b-ed63bfe3de83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/insurance/other-insurance' and (text() = 'Produk Asuransi Lainnya' or . = 'Produk Asuransi Lainnya')]</value>
+      <webElementGuid>b9e62d4d-93a4-4d5f-9c5a-3b68a2ba6c27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -21,36 +21,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://staging.ezypolis.com:3001/')
 
-WebUI.click(findTestObject('null'))
+WebUI.findWebElements(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_EzyPolis - Asuransi SeEzyItu/a_Produk Asuransi Lainnya'), 
+    0)
 
-WebUI.verifyElementVisible(findTestObject('null'))
+WebUI.click(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_EzyPolis - Asuransi SeEzyItu/a_Produk Asuransi Lainnya'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Other Insurance/Validation missing fields/h5_Asuransi Kesehatan'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Pilih Asuransi Terbaikmu - EzyPolis/button_Ajukan Sekarang'))
 
-WebUI.setText(findTestObject('null'), 'Sena Pahlevi Ristiawanto')
+WebUI.setText(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Nama_customer_name'), 
+    'Sena')
 
-WebUI.setText(findTestObject('null'), 'sena.pahlevi@ezypolis.com')
+WebUI.setText(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Email_customer_email'), 
+    'senapahlevi2@gmail.com')
 
-WebUI.setText(findTestObject('null'), 
+WebUI.setText(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Nama Perusahaan (Opsional)_customer_company'), 
     'PT ABCD')
 
-WebUI.setText(findTestObject('null'), 
-    '081234231234')
+WebUI.setText(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/input_Nomor Handphone_customer_phone'), 
+    '081231294201')
 
-WebUI.setText(findTestObject('null'), 
-    'Saya ingin membeli produk asuransi kesehatan dengan ketentuan .... terkait .....')
+WebUI.setText(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/textarea_Catatan (Opsional)_customer_note'), 
+    'Saya ingin membeli asuransi kesehatan ....')
 
-WebUI.setText(findTestObject('null'), 
-    '081234231234')
+WebUI.click(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/button_Kirim'))
 
-WebUI.setText(findTestObject('null'), 
-    'Saya ingin membuat asuransi produk kesehatan untuk ....')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.verifyElementVisible(findTestObject('null'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255'))
 

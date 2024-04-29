@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Provinsi_css-1g6gooi</name>
+   <tag></tag>
+   <elementGuidId>3333881a-191f-42ee-91a2-657fec592b88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1g6gooi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='booking-form']/div/form/div[2]/div/div[8]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-1g6gooi >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d8c14ddc-c1ce-46a2-92ef-ab200d7f33ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1g6gooi</value>
+      <webElementGuid>5af90952-93c6-4b28-8efb-e9d8eaf0a8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]/div[@class=&quot;css-1g6gooi&quot;]</value>
+      <webElementGuid>d30ce8b6-30b6-4357-ac2b-dd285d778419</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-form']/div/form/div[2]/div/div[8]/div/div/div/div/div[2]</value>
+      <webElementGuid>e22acb94-3dca-4335-addb-61dbcc0a396d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Provinsi'])[1]/following::div[1]</value>
+      <webElementGuid>f6cbfe26-3945-4ce0-907f-de5e9cda901c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bali'])[1]/preceding::div[5]</value>
+      <webElementGuid>b6429526-9431-461a-a6bb-cfdb8c2ac474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangka Belitung'])[1]/preceding::div[6]</value>
+      <webElementGuid>e40ed859-9559-4edf-a281-d63cda92e364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/div[2]</value>
+      <webElementGuid>647c7866-63b2-4d77-8cf4-ef1a37debfd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

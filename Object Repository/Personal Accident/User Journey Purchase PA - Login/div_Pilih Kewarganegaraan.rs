@@ -6,19 +6,19 @@
    <elementGuidId>68e0ee20-8c62-4bce-8344-dc41a87b6983</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div/div</value>
+         <key>CSS</key>
+         <value>div.react-select__control.react-select__control--is-focused.react-select__control--menu-is-open.css-1pahdxg-control > div.react-select__value-container.css-1hwfws3</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.react-select__placeholder.css-1wa3eu0-placeholder</value>
+         <key>XPATH</key>
+         <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Pilih Kewarganegaraan&quot;i</value>
+         <value>div >> internal:has-text=/^Pilih Kewarganegaraan$/ >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7d015d10-65ca-47ed-b79b-e73c3bf846d3</webElementGuid>
+      <webElementGuid>7e09a8ac-dd3b-4e4c-b064-72c755734d71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>react-select__placeholder css-1wa3eu0-placeholder</value>
-      <webElementGuid>4eb51630-0e35-43b8-88bd-2e281f6b33a1</webElementGuid>
+      <value>react-select__value-container css-1hwfws3</value>
+      <webElementGuid>6734532b-3347-477a-8688-b033782f3cf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,18 +45,50 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih Kewarganegaraan</value>
-      <webElementGuid>9bd9a20d-e9c8-4f93-9ffd-7bce364f859c</webElementGuid>
+      <webElementGuid>4a1e5e9c-f727-4507-80b8-48e4e407f03e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]/div[@class=&quot;react-select__placeholder css-1wa3eu0-placeholder&quot;]</value>
-      <webElementGuid>47bb7b9e-8c0a-42ee-89df-a69f12dcdbf1</webElementGuid>
+      <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>05478642-759b-4991-8246-db6126795112</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div</value>
+      <webElementGuid>d378dbd9-e739-47a6-b219-63bcfd957536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::div[4]</value>
+      <webElementGuid>76cdc518-07f5-4294-be06-12773a63cb0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div</value>
+      <webElementGuid>1c8afa3b-b927-4a38-b464-1258925d4839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Kewarganegaraan' or . = 'Pilih Kewarganegaraan')]</value>
+      <webElementGuid>85bebeea-56df-426b-9e6c-3b394fc9da7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -94,13 +126,5 @@
       <type>Main</type>
       <value>//div[6]/div/div/div/div/div</value>
       <webElementGuid>84091727-f159-4dbc-8053-e83c76438b99</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Pilih Kewarganegaraan' or . = 'Pilih Kewarganegaraan')]</value>
-      <webElementGuid>61d52855-c06a-4359-aab1-46b11588616e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

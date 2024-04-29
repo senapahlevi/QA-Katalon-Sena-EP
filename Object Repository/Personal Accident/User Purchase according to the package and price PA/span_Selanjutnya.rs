@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selanjutnya</name>
+   <tag></tag>
+   <elementGuidId>35412112-7a62-4f27-b960-53ef2130789e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/div/div[2]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^SelanjutnyaProteksi Bronze$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8351c1db-d556-40fb-b65d-ad454b26afa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selanjutnya</value>
+      <webElementGuid>3f6f6ef6-b57b-4cd0-8e83-d568cab611e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 flex flex-col lg:flex-row&quot;]/div[@class=&quot;w-full max-w-5xl mx-auto bg-brand-ivory rounded px-5 sm:px-9.5 py-7 sm:py-10 space-y-5&quot;]/div[@class=&quot;w-full px-5 bg-white rounded&quot;]/div[@class=&quot;flex flex-row-reverse flex-wrap justify-between space-x-reverse space-x-5 pb-2.5 border-b border-gray-4&quot;]/div[@class=&quot;pt-5 flex-shrink-0&quot;]/button[@class=&quot;button_btn__6yNqf button_btn--small__tjCs4 button_btn--solid-primary__1YfXJ&quot;]/span[1]</value>
+      <webElementGuid>d23975da-f3d2-4eb9-94d1-cd0ea4643733</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div/div[2]/div/div/button/span</value>
+      <webElementGuid>69f4d829-f5f0-4fe1-a4f9-219f475749aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S-1814/NB.111.2022'])[1]/following::span[1]</value>
+      <webElementGuid>3d78b3a2-6784-4536-bd99-9626b9d3f2b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selengkapnya'])[1]/following::span[1]</value>
+      <webElementGuid>9494ad89-38e8-4e43-9c00-60fc05a508d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proteksi Bronze'])[1]/preceding::span[1]</value>
+      <webElementGuid>5f038ae6-d4d0-4727-8b1d-f9c91ba89629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[5]/preceding::span[2]</value>
+      <webElementGuid>a763a72a-1b72-45dc-8e9a-3244e61595e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>6f9fff12-eba7-43cd-929c-aae00414f514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selanjutnya' or . = 'Selanjutnya')]</value>
+      <webElementGuid>41566f7f-420d-4d87-80f5-cb41480bb360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

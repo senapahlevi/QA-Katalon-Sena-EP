@@ -6,12 +6,12 @@
    <elementGuidId>249018be-68a9-4ff0-a6cb-0028ff4f9a37</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='s24ri8gdh']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.Toastify__toast-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2bopfoye']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>65818714-c178-4970-bb31-1fd7cb8fcec1</webElementGuid>
+      <webElementGuid>e628bcc8-f220-42c5-99ea-7857ac5f581d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>2e06c3cc-8a41-4acb-95d6-dbab0674077f</webElementGuid>
+      <webElementGuid>afc3a417-a1b1-4175-b10e-83f779372533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Toastify__toast-body</value>
-      <webElementGuid>c3f15366-6f46-48c3-8dac-15f14b30cc73</webElementGuid>
+      <webElementGuid>f6b6abda-4ef9-44aa-9ae7-ae696d728375</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,23 +53,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  </value>
-      <webElementGuid>daef90d7-fb98-4abd-8861-7726c5b39c26</webElementGuid>
+      <webElementGuid>ce4f4f4f-7477-42d4-b9a4-a4db836f5ba6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;s24ri8gdh&quot;)/div[@class=&quot;Toastify__toast-body&quot;]</value>
-      <webElementGuid>79d42292-97e4-4a13-bfd9-96bb11f59e96</webElementGuid>
+      <value>id(&quot;s2bopfoye&quot;)/div[@class=&quot;Toastify__toast-body&quot;]</value>
+      <webElementGuid>b1d5a0c9-d74a-4946-aba0-6e5503130b72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='s24ri8gdh']/div</value>
-      <webElementGuid>c46433c8-085c-4d52-941f-f448b4d5a41d</webElementGuid>
+      <value>//div[@id='s2bopfoye']/div</value>
+      <webElementGuid>94c6ef1f-7721-461e-b4e1-312d0da0f2f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/following::div[4]</value>
-      <webElementGuid>e9c2d2bb-ae1c-4e22-8181-5808abe6992c</webElementGuid>
+      <webElementGuid>6c8b1c73-9fe2-477f-86dc-83ace57debc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::div[4]</value>
-      <webElementGuid>2f1eb799-76b6-4029-968e-2f0030d0dc82</webElementGuid>
+      <webElementGuid>234e4946-64ac-4da5-be82-12483a3cc685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[2]</value>
-      <webElementGuid>b91053cd-b5d9-4a6f-93fa-99742139396d</webElementGuid>
+      <webElementGuid>f17b1374-3387-416d-8a95-31eb44a9230c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PT MANGGALA ARTHA SEJAHTERA'])[1]/preceding::div[4]</value>
-      <webElementGuid>62e7bddf-194c-4d81-91da-a0557826ab03</webElementGuid>
+      <webElementGuid>a1d41984-3fbe-4d2f-b348-8912c8062c80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda']/parent::*</value>
-      <webElementGuid>968dce2f-2958-428b-95b1-6495f7cbed2c</webElementGuid>
+      <webElementGuid>c4314e78-e0f6-4939-ab97-0d393cd92cce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div/div</value>
-      <webElementGuid>ad8b8530-2ec2-4a73-931f-3393a6822d7b</webElementGuid>
+      <webElementGuid>335f3098-69d7-4349-84cd-1e6f749ea015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ' or . = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ')]</value>
-      <webElementGuid>7fd98c9f-c750-4d49-886d-1617adf1298a</webElementGuid>
+      <webElementGuid>2efdba53-dc87-4446-afda-9e2fb6e790a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s24ri8gdh']/div</value>
+      <webElementGuid>c46433c8-085c-4d52-941f-f448b4d5a41d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

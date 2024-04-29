@@ -6,12 +6,12 @@
    <elementGuidId>5dbc6b66-bea4-4d9c-af5d-49b855650ac7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div/div/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3ca6d10e-9ee4-4e7b-8f02-373c6dc8a113</webElementGuid>
+      <webElementGuid>2b77f35f-12c7-4260-9697-ee0dd30e171e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-brand-pink text-white w-1/4 py-2 rounded-3xl shadow-md hover:bg-transparent border border-brand-pink hover:text-brand-pink</value>
-      <webElementGuid>280fc3b0-07bb-467f-b1b6-86556bf32672</webElementGuid>
+      <webElementGuid>90c0faea-5763-45ad-93e3-27d39c257ef2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Setuju</value>
-      <webElementGuid>a37a697a-0c8d-4482-87ba-59b597ad7565</webElementGuid>
+      <webElementGuid>ad0fd4d2-03e8-4b12-8b41-b17d62f1dfc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/div[@class=&quot;cookie-consent_popup__yS6b5&quot;]/div[@class=&quot;cookie-consent_popupbody__WdfCB&quot;]/div[@class=&quot;cookie-consent_popupcontent__nFdVt&quot;]/button[@class=&quot;bg-brand-pink text-white w-1/4 py-2 rounded-3xl shadow-md hover:bg-transparent border border-brand-pink hover:text-brand-pink&quot;]</value>
-      <webElementGuid>c4017815-7009-49d3-a683-0342aaed1440</webElementGuid>
+      <webElementGuid>d50fd1b6-24c9-41af-8149-283e188b7c69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div/button</value>
-      <webElementGuid>08a9ae6c-0543-4a38-8aea-7a99d3d7fd59</webElementGuid>
+      <webElementGuid>ba629a4a-2a50-45ad-9f1d-808038362472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya'])[1]/following::button[1]</value>
-      <webElementGuid>7faba6e0-3561-4d52-8a20-32471d79e2ea</webElementGuid>
+      <webElementGuid>94c8c9f1-034d-4f20-9ff7-7cb0588b7479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::button[1]</value>
-      <webElementGuid>525751dd-7bbc-401e-9fe6-b6b532a81e22</webElementGuid>
+      <webElementGuid>9b4893c2-3120-452f-bd18-a667fee3dbb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/preceding::button[2]</value>
-      <webElementGuid>1d7d4f8f-2d4f-4fa2-ac18-916fd7fea3a1</webElementGuid>
+      <webElementGuid>41e10cd6-1a1b-4fe0-a37b-0dc1882eae93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Setuju']/parent::*</value>
-      <webElementGuid>03770d76-c682-46b3-bca9-09dd6b32c99a</webElementGuid>
+      <webElementGuid>05b7ce58-8a30-4c23-b4a9-8a22d09fa8a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>bd1a897f-0a43-4c06-9b5b-c8e9b899bf5e</webElementGuid>
+      <webElementGuid>23932647-a48b-4606-8a70-d464b1e73b32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Setuju' or . = 'Setuju')]</value>
-      <webElementGuid>6fdc2f9f-b678-4618-8a86-62f6634e7a1a</webElementGuid>
+      <webElementGuid>b3e2cd00-c0e0-43f2-a047-8e90483a2f8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>00b4e1e4-e239-4d51-9891-aaf81ff6186c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='user_address']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#user_address</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='user_address']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2ad21623-b9e7-407a-b7d8-c81acbf560c1</webElementGuid>
+      <webElementGuid>be80466e-6f1b-48bf-8aa6-99fcd71981e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>user_address</value>
-      <webElementGuid>24dd5e87-4bc7-4c6d-ab0c-4c01b9fdba77</webElementGuid>
+      <webElementGuid>aa8f8e46-864e-4909-b6ea-4339211ba4d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2174c051-76ad-41df-9f7f-84f0cc45d64e</webElementGuid>
+      <webElementGuid>628773e2-87e8-41fc-a4f8-da92b6783462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user_address</value>
-      <webElementGuid>d8f32643-559a-4413-bc87-a7fd80b4ed55</webElementGuid>
+      <webElementGuid>42deed71-ddac-4aa9-aa00-8978f53da2cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: Jl Kenangan no. 1</value>
-      <webElementGuid>64640f9b-4d2e-4627-859b-86110a66ab39</webElementGuid>
+      <webElementGuid>ba8ca7fb-475a-4c8c-9be6-895e8a8ee9ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>02ae60f5-cdfc-4549-9093-f92afbd89917</webElementGuid>
+      <webElementGuid>b0da231a-5839-4b94-bb17-7c3a5dffc770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user_address&quot;)</value>
-      <webElementGuid>4dbaf8e4-1a50-45ca-a69b-f11af42b66a8</webElementGuid>
+      <webElementGuid>4d596e74-1927-41d0-9e1d-27d085ad244f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='user_address']</value>
-      <webElementGuid>246b1f8a-e538-4812-a951-9853aef90432</webElementGuid>
+      <webElementGuid>d87ad7a5-0fb9-4786-bbba-2da14854f4ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[7]/div/input</value>
-      <webElementGuid>b1a9bf08-8e4c-4432-9d87-d76170cfd748</webElementGuid>
+      <webElementGuid>28fdb50c-9075-4bd1-8837-f39594f9e315</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/input</value>
-      <webElementGuid>45f31bc3-d854-4e3b-95ad-6af2f250245c</webElementGuid>
+      <webElementGuid>2ac6591e-7a9a-4a3f-ad5a-575c7f74cfc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'user_address' and @type = 'text' and @name = 'user_address' and @placeholder = 'Contoh: Jl Kenangan no. 1']</value>
-      <webElementGuid>5e7fc6ae-0197-45cb-afda-18e324f04da0</webElementGuid>
+      <webElementGuid>3ffc6d8d-cd4c-44bd-900a-4a13e4436742</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

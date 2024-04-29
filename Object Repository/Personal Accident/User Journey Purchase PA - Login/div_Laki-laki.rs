@@ -6,19 +6,19 @@
    <elementGuidId>dd6517a6-41e5-4714-b0b5-ca133717ba32</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-user_gender-option-0']</value>
+         <key>CSS</key>
+         <value>div.react-select__value-container.react-select__value-container--has-value.css-1hwfws3</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-user_gender-option-0</value>
+         <key>XPATH</key>
+         <value>//div[@id='booking-form']/div/form/div[2]/div/div[5]/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Laki-laki&quot;s</value>
+         <value>div >> internal:has-text=/^Laki-laki$/ >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>83ff40af-40f0-43ac-8f91-cce74adf641d</webElementGuid>
+      <webElementGuid>37d41a83-8807-4e0f-87bb-7e3a9e4c3115</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>react-select__option react-select__option--is-focused css-1n7v3ny-option</value>
-      <webElementGuid>a72ea541-ef1b-40df-ab9b-10d819e8c9b7</webElementGuid>
+      <value>react-select__value-container react-select__value-container--has-value css-1hwfws3</value>
+      <webElementGuid>c4decb10-7297-4d18-a909-0929293bc0ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,18 +61,50 @@
       <name>text</name>
       <type>Main</type>
       <value>Laki-laki</value>
-      <webElementGuid>9de0d327-15ec-4339-a48c-0b6cc4897232</webElementGuid>
+      <webElementGuid>42bba726-4647-48d5-b1bc-e8f3983cee16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-user_gender-option-0&quot;)</value>
-      <webElementGuid>47d341cd-ec5c-414a-a8b6-b00955825b81</webElementGuid>
+      <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container react-select__value-container--has-value css-1hwfws3&quot;]</value>
+      <webElementGuid>9670e8d1-52ea-401c-af87-df2742ec1d79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-form']/div/form/div[2]/div/div[5]/div/div/div/div</value>
+      <webElementGuid>394ac3cb-b7e4-4bed-8146-d0fc480ba114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki-laki'])[2]/preceding::div[4]</value>
+      <webElementGuid>058e1c65-e33e-487f-b3aa-d44ea6f0e5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>8a8ff3cd-eed5-4a27-b4e2-da16ade99f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Laki-laki' or . = 'Laki-laki')]</value>
+      <webElementGuid>e3d625d9-4a3d-4f21-ac26-463a3ec9d4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

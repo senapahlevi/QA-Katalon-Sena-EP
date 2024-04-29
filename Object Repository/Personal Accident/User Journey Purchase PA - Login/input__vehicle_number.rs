@@ -6,12 +6,12 @@
    <elementGuidId>e0618bf9-279d-4c30-8b43-7ce56e846f01</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='vehicle_number']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#vehicle_number</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='vehicle_number']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>39247960-9b29-46a6-95d7-551f7aa5a440</webElementGuid>
+      <webElementGuid>fcf7ccc7-b168-4cd0-8188-fb83b1ddaada</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>vehicle_number</value>
-      <webElementGuid>2356e741-e1d9-4f4a-a5e8-3b5740776b2a</webElementGuid>
+      <webElementGuid>fc86a53b-c95b-48a7-a40a-16099ffed430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ccc2bc45-4456-4580-9339-f89b422e8fdc</webElementGuid>
+      <webElementGuid>736034f9-554e-4217-9662-14a83ce0f3e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>vehicle_number</value>
-      <webElementGuid>411a528e-5604-4ecd-8587-90afa4fb59ea</webElementGuid>
+      <webElementGuid>62f8a327-e922-49e4-ba55-95159740506e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: AB 1234 CD</value>
-      <webElementGuid>866b646d-eb8b-411e-a0c1-6b39512e0a13</webElementGuid>
+      <webElementGuid>be92bab0-cd47-4c07-bf02-eb5b640bde24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>d68c9dd5-a423-4e33-a38f-175bc16e840c</webElementGuid>
+      <webElementGuid>eb1d726d-3525-4004-841c-9756f3b84086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>17</value>
-      <webElementGuid>6e3c9eed-897b-40d9-bdc1-6d81ee4f528f</webElementGuid>
+      <webElementGuid>dad9df67-4814-493b-a1f1-13a14c99aa72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vehicle_number&quot;)</value>
-      <webElementGuid>cd538731-3eaf-4e7e-b8bb-5bd626a101b9</webElementGuid>
+      <webElementGuid>da88303a-4caa-471d-bec3-68592edfa83a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='vehicle_number']</value>
-      <webElementGuid>9ae68cfe-acf6-4a72-bb88-80e5292f48a8</webElementGuid>
+      <webElementGuid>18e86e26-cf1c-44e4-aaae-430caa679774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div[2]/div/div/input</value>
-      <webElementGuid>db29d88f-a7e0-4ecc-9454-2b149018692c</webElementGuid>
+      <webElementGuid>7542bdbc-99cc-4e21-871b-3816abed3517</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>9885e3d8-9062-46a1-a414-13d8de8571c2</webElementGuid>
+      <webElementGuid>579ff512-0a08-48da-9759-39928dffec35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'vehicle_number' and @type = 'text' and @name = 'vehicle_number' and @placeholder = 'Contoh: AB 1234 CD']</value>
-      <webElementGuid>fe5695ef-cd0a-446c-8d5b-37b3bb140a42</webElementGuid>
+      <webElementGuid>45c2df0b-c6f8-40da-9aec-255347a78a73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

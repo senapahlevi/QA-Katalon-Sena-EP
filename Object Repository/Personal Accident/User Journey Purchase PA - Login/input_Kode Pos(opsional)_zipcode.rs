@@ -6,12 +6,12 @@
    <elementGuidId>73e144a8-d49e-486e-8955-c30241d01e49</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='zipcode']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#zipcode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='zipcode']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>55317b1f-c30f-4a1a-9f7a-fafca1f8afd2</webElementGuid>
+      <webElementGuid>93d91c5c-6718-482a-b446-ddbe55b82051</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>zipcode</value>
-      <webElementGuid>2c665713-6f11-4d1b-9569-4d9a59f07368</webElementGuid>
+      <webElementGuid>8aab09ae-5160-494d-9159-eb8fe9b713b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>f3935fd4-6a75-4aba-8f1b-1bade7ce746c</webElementGuid>
+      <webElementGuid>9ef391e3-d909-4df4-b9ad-cdade546070c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>zipcode</value>
-      <webElementGuid>28b84797-30c2-40bf-a211-8ab1c35faf56</webElementGuid>
+      <webElementGuid>8780188e-bbc9-4245-a098-0daa0e4d01a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: 14153</value>
-      <webElementGuid>0db1fc96-2979-43ee-b537-4b684a2b6f15</webElementGuid>
+      <webElementGuid>68d98a04-9543-4bf6-8139-3cd481dda0c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>5ef5f079-ebff-4d50-903a-0057c81b3b02</webElementGuid>
+      <webElementGuid>70091808-16d5-40d0-9b31-c8318ec7bcde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;zipcode&quot;)</value>
-      <webElementGuid>8dc928a9-0a3e-4be5-8144-2f5073198ca8</webElementGuid>
+      <webElementGuid>4d1419da-20c1-4178-9d1f-30955c133e20</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='zipcode']</value>
-      <webElementGuid>d4afe823-6807-42c4-84aa-688f0c0f10f6</webElementGuid>
+      <webElementGuid>d7b9b79f-7983-4acf-bdc6-f39f3e883f7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[10]/div/input</value>
-      <webElementGuid>bcae8ca8-40f5-4487-8fd9-8822d042fad1</webElementGuid>
+      <webElementGuid>bcd78f92-934f-450d-b490-26e829177bb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/input</value>
-      <webElementGuid>4f76e1be-06cd-4753-8cb8-fea04930ec9d</webElementGuid>
+      <webElementGuid>c9bd479c-9711-426c-a14e-ebddadd26d80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'zipcode' and @type = 'number' and @name = 'zipcode' and @placeholder = 'Contoh: 14153']</value>
-      <webElementGuid>28616e59-6dfd-485a-bddd-642860e26de9</webElementGuid>
+      <webElementGuid>911e6dba-7be3-4cce-8b5a-ed19ec5e77ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

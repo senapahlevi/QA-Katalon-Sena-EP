@@ -6,12 +6,12 @@
    <elementGuidId>2c90b526-6f96-4fc7-84ec-373d0121f559</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='destination_city']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#destination_city</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='destination_city']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7061eaa6-b21c-4172-9113-01989aa24aac</webElementGuid>
+      <webElementGuid>479e2c8b-5e80-4835-b1ec-d0539b78bdc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>destination_city</value>
-      <webElementGuid>64147739-3779-4b65-ab4f-ab933f760a5d</webElementGuid>
+      <webElementGuid>dd859d05-8d61-4350-adec-c7e4d246d55f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f0833882-9a84-4578-8b74-7740979ed03e</webElementGuid>
+      <webElementGuid>1ef259bf-c9df-4d87-8bd4-c8f1cc7da491</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>destination_city</value>
-      <webElementGuid>9deb32a8-6d22-4c09-a00c-0a63878852c4</webElementGuid>
+      <webElementGuid>9706d23a-1abc-44e2-82ba-53e7a087f1d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: Semarang</value>
-      <webElementGuid>030b49e3-ea5b-49bd-9ac3-045968e3b12a</webElementGuid>
+      <webElementGuid>1fc3a548-f75f-4712-8986-7bbe3d646850</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>6fea36b8-ca5a-4652-87a9-852f613d7976</webElementGuid>
+      <webElementGuid>94d02068-afcd-4955-a7b9-8fdd83b25c6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;destination_city&quot;)</value>
-      <webElementGuid>4fd66d6f-e845-45d6-8b1f-3ca2aa76e4db</webElementGuid>
+      <webElementGuid>cec0cb46-4766-401c-b925-fd357c44228c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>S</value>
+      <webElementGuid>83edc66f-2588-4e80-a47e-0829e8101156</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='destination_city']</value>
-      <webElementGuid>c212c211-94b6-44a7-a8df-c4057c8b3d5d</webElementGuid>
+      <webElementGuid>6b901210-4b50-4ad2-9e54-1e7702d1d5b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div[4]/div/div/input</value>
-      <webElementGuid>f8369df2-195d-4254-bce0-f8e931ad2f17</webElementGuid>
+      <webElementGuid>077a4fca-7512-4302-b288-749b4188cdd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/input</value>
-      <webElementGuid>4815597d-d557-46d5-b501-b70b199e27eb</webElementGuid>
+      <webElementGuid>652d316a-ff55-468a-9936-89ddac81b9de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'destination_city' and @type = 'text' and @name = 'destination_city' and @placeholder = 'Contoh: Semarang']</value>
-      <webElementGuid>489d51ef-7bea-4924-997c-4ed67706d51a</webElementGuid>
+      <webElementGuid>c9704a22-34ac-4943-8cc6-a7591d22bcf7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
