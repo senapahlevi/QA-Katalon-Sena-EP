@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>759c1457-6c48-49ba-ad16-2df4bfa8f91c</webElementGuid>
+      <webElementGuid>9dc88f30-2d9e-4d7f-8120-4f8486ea5d14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>user_birth_place</value>
-      <webElementGuid>28c41266-d8ba-474a-a153-5ae97ece9122</webElementGuid>
+      <webElementGuid>e3b8841f-347b-46eb-8115-496bf5cfb82a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a70f6cdf-4fbd-4382-ade6-719ef219b34c</webElementGuid>
+      <webElementGuid>a57140d8-6c3e-4461-bfa1-fe5c1275ddc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user_birth_place</value>
-      <webElementGuid>668b2790-7c64-4584-bbf2-35c178c2bd2b</webElementGuid>
+      <webElementGuid>ec138519-bdf1-4011-9c53-574e244e4d55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: Jakarta</value>
-      <webElementGuid>a2a4681c-9fa9-419a-a8b6-51982026196c</webElementGuid>
+      <webElementGuid>6b281e84-8d32-4176-a739-4cdb4f4ab01a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>4bf10056-18a7-488e-9e0e-8895d2cc19ea</webElementGuid>
+      <webElementGuid>a7ba4266-069b-406a-9107-50a5e36a143e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user_birth_place&quot;)</value>
-      <webElementGuid>f84f4b50-f87e-4f57-8172-84001dd5fb28</webElementGuid>
+      <webElementGuid>0585e2d7-2dbe-4f07-82e2-2613219a0e60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='user_birth_place']</value>
-      <webElementGuid>693a2c5c-3ef2-4248-aa14-122361d573ac</webElementGuid>
+      <webElementGuid>5f0f3645-5e49-4960-b5fb-3252c22e52db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[3]/div/input</value>
-      <webElementGuid>e9386be4-0085-4cad-810c-794b7401bdac</webElementGuid>
+      <webElementGuid>6ac9e27b-7187-41f4-9cf9-dafea36337af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>2eaf8a0f-6c5d-4fea-ac46-77a790b7a76b</webElementGuid>
+      <webElementGuid>31c91253-653e-4fe6-a112-56c72a5893ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'user_birth_place' and @type = 'text' and @name = 'user_birth_place' and @placeholder = 'Contoh: Jakarta']</value>
-      <webElementGuid>07b279f7-285c-44f9-b06b-cc540ebe9b6f</webElementGuid>
+      <webElementGuid>cb61bc83-d356-4d33-8230-a744cca78a66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

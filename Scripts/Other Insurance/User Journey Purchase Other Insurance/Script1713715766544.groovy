@@ -48,5 +48,8 @@ WebUI.setText(findTestObject('Other Insurance/User Journey for Purchasing Other 
 
 WebUI.click(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/button_Kirim'))
 
-WebUI.click(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255'))
+WebUI.waitForElementVisible(findTestObject('Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255'), 
+    30, FailureHandling.OPTIONAL)
+
+WebUI.closeBrowser()
 

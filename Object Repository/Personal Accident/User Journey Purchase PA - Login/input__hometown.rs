@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0d8c33d-d7bf-4e49-a347-222e03b3edc4</webElementGuid>
+      <webElementGuid>795c7b83-1f1b-44a4-9324-47e7f0abd5d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>hometown</value>
-      <webElementGuid>948e1205-7f64-4dda-be61-2295dde5899f</webElementGuid>
+      <webElementGuid>fded7dd7-a596-40b3-bd0c-cc6f62a5a220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5d45e487-bc8e-4113-90f1-f40d8114db1f</webElementGuid>
+      <webElementGuid>82d445cc-b302-4f8a-8954-208bf23ab004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>hometown</value>
-      <webElementGuid>276ca820-b78a-4bc2-b748-e91a78c3a716</webElementGuid>
+      <webElementGuid>19843c6e-8ae0-45e2-b74f-5eab21cf2da9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: Balikpapan</value>
-      <webElementGuid>dc8ad4d4-1c48-4e7f-9d5f-feec6eaf11d3</webElementGuid>
+      <webElementGuid>4b10f196-b636-4be4-9608-85e61681606c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>f9b714e9-d949-4a65-8011-ce306960f7d9</webElementGuid>
+      <webElementGuid>8fef6726-5444-4ece-b03c-c89546a26f9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,15 +77,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;hometown&quot;)</value>
-      <webElementGuid>1ff683b8-282d-4dfc-9a73-643c320bfc8f</webElementGuid>
+      <webElementGuid>bba74825-aa13-4ef7-988e-a56395ebb46d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>B</value>
-      <webElementGuid>c26d848e-fc49-4a60-bb05-68dcecbb4c2d</webElementGuid>
+      <value>T</value>
+      <webElementGuid>20fd97a3-c0ee-4700-bb76-7193c28e061b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='hometown']</value>
-      <webElementGuid>2635b71f-e8c1-4389-9729-543d9688708d</webElementGuid>
+      <webElementGuid>00ba1ad0-a643-43d6-8c60-d61e2acef503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div[3]/div/div/input</value>
-      <webElementGuid>684bb37c-bf3b-404e-a0ef-5980c1bf93c7</webElementGuid>
+      <webElementGuid>2e083dcc-c1ea-4bb4-94f6-3b5bf1f29f72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
-      <webElementGuid>e8269037-be12-41e6-87c8-6a015e90cc8c</webElementGuid>
+      <webElementGuid>f2c1dc7f-3950-45ce-807a-7dc30aed9834</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'hometown' and @type = 'text' and @name = 'hometown' and @placeholder = 'Contoh: Balikpapan']</value>
-      <webElementGuid>d54b901f-3adb-49cd-b5a6-089a59e6aaca</webElementGuid>
+      <webElementGuid>98bb2f97-6a91-46c6-9320-f5eaf4d4a4cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

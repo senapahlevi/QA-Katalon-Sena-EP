@@ -6,12 +6,12 @@
    <elementGuidId>34254415-7b72-4e41-9b9d-5330c2a87e1a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>76ddf719-a80d-4434-8394-c9a697354403</webElementGuid>
+      <webElementGuid>165b0731-2f19-4dfd-9496-2146d2b3505e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>link_base-link__fSADh inline-flex flex-col items-center text-gray-2 p-4 rounded-xl transition duration-500 ease-in-out hover:shadow-sm hover:bg-white</value>
-      <webElementGuid>b24bef0b-5f13-4d1c-9dee-c1e0c7fda5ad</webElementGuid>
+      <webElementGuid>12021cc0-74c3-44ae-b9b5-e4e6ef2ef902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/insurance/personal-accident</value>
-      <webElementGuid>46af4194-c336-4d0e-bbf2-2f1a6f13e169</webElementGuid>
+      <webElementGuid>92492464-b65a-41a8-9c1c-79e689ba62a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Asuransi Kecelakaan Diri</value>
-      <webElementGuid>aaa856de-bd61-47a9-8cfa-12bae50e90f5</webElementGuid>
+      <webElementGuid>90c87468-2241-4725-9349-5a50c2c5ff70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;section-product-recommendations&quot;)/div[@class=&quot;px-4 sm:px-6 lg:px-8 xs:mt-96 md:mt-96&quot;]/div[@class=&quot;p-8 flex flex-col rounded-[45px] bg-brand-whitegray shadow-md&quot;]/div[@class=&quot;mt-6 w-full max-w-xl mx-auto grid grid-rows-3 sm:grid-rows-1 grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-5&quot;]/a[@class=&quot;link_base-link__fSADh inline-flex flex-col items-center text-gray-2 p-4 rounded-xl transition duration-500 ease-in-out hover:shadow-sm hover:bg-white&quot;]</value>
-      <webElementGuid>d3d833f8-47b7-41b6-a6dc-6fd2edc74147</webElementGuid>
+      <webElementGuid>af53e635-132d-4716-b55b-5a858d95a2c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='section-product-recommendations']/div/div/div[2]/a[3]</value>
-      <webElementGuid>5a243aea-6cfb-4cde-9d28-5579149567c9</webElementGuid>
+      <webElementGuid>5b31a588-e86d-4904-a2b1-fb50c7e8c5af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asuransi Perjalanan'])[1]/following::a[1]</value>
-      <webElementGuid>497fa9e6-42a8-4de9-9bff-fea30dc20de7</webElementGuid>
+      <webElementGuid>29983c28-d209-410f-9db6-3be6c3d39ed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Roadside Assistance'])[1]/following::a[2]</value>
-      <webElementGuid>e948b908-7981-455f-854a-bbc991f56383</webElementGuid>
+      <webElementGuid>97ba3e60-7bc7-4ad1-b9ee-25ef2b248ad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asuransi Kendaraan'])[1]/preceding::a[1]</value>
-      <webElementGuid>0d6013b4-84d5-4274-8ffc-78ab35f3da8e</webElementGuid>
+      <webElementGuid>da66cf4a-1de9-45f0-bcd0-5a42593648f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/insurance/personal-accident')]</value>
-      <webElementGuid>9b114144-d955-47ea-8b16-a2d67a48a8f6</webElementGuid>
+      <webElementGuid>7e8c1efb-8e5e-4872-8c57-0e44eb1301cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]</value>
-      <webElementGuid>c04f3d32-72df-412c-8445-5d0d4ef5b50e</webElementGuid>
+      <webElementGuid>71cd11e6-89bc-4785-86cb-8ad0bd111da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/insurance/personal-accident' and (text() = 'Asuransi Kecelakaan Diri' or . = 'Asuransi Kecelakaan Diri')]</value>
-      <webElementGuid>eb363ec6-c271-4b68-be17-ebe4c06e099d</webElementGuid>
+      <webElementGuid>72a5ec64-0d04-4657-98c7-15f3fd113189</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

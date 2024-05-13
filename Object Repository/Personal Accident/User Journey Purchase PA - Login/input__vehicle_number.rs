@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fcf7ccc7-b168-4cd0-8188-fb83b1ddaada</webElementGuid>
+      <webElementGuid>003a7fca-bf2c-44d0-bce1-3ac9348ba6ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>vehicle_number</value>
-      <webElementGuid>fc86a53b-c95b-48a7-a40a-16099ffed430</webElementGuid>
+      <webElementGuid>fc3d8cc1-dab9-4cba-a1e5-c6e8f86c13d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>736034f9-554e-4217-9662-14a83ce0f3e4</webElementGuid>
+      <webElementGuid>0ee1684c-d838-42a1-a99b-a6fed8a0af18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>vehicle_number</value>
-      <webElementGuid>62f8a327-e922-49e4-ba55-95159740506e</webElementGuid>
+      <webElementGuid>0e1381ef-e2bf-43cf-8af4-9f7913bf89c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: AB 1234 CD</value>
-      <webElementGuid>be92bab0-cd47-4c07-bf02-eb5b640bde24</webElementGuid>
+      <webElementGuid>d535c194-d781-4fdb-9f2a-8000bf30fc72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>eb1d726d-3525-4004-841c-9756f3b84086</webElementGuid>
+      <webElementGuid>3f45e48d-9da3-4883-b46b-dbaa0c45ef2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>17</value>
-      <webElementGuid>dad9df67-4814-493b-a1f1-13a14c99aa72</webElementGuid>
+      <webElementGuid>1ceb4f10-efe2-450e-ad19-5bff21e82989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vehicle_number&quot;)</value>
-      <webElementGuid>da88303a-4caa-471d-bec3-68592edfa83a</webElementGuid>
+      <webElementGuid>cb901b4c-970e-4f99-8de0-63415c5fb191</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='vehicle_number']</value>
-      <webElementGuid>18e86e26-cf1c-44e4-aaae-430caa679774</webElementGuid>
+      <webElementGuid>3b5231e5-5053-400f-982e-6d62d444a164</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div[2]/div/div/input</value>
-      <webElementGuid>7542bdbc-99cc-4e21-871b-3816abed3517</webElementGuid>
+      <webElementGuid>4e4acaf3-a48c-4792-893e-885de53d86e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>579ff512-0a08-48da-9759-39928dffec35</webElementGuid>
+      <webElementGuid>8e38a587-ad13-40b7-88c2-b407171860eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'vehicle_number' and @type = 'text' and @name = 'vehicle_number' and @placeholder = 'Contoh: AB 1234 CD']</value>
-      <webElementGuid>45c2df0b-c6f8-40da-9aec-255347a78a73</webElementGuid>
+      <webElementGuid>3203ace4-5c60-461f-b03e-a25ef8b5eff0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

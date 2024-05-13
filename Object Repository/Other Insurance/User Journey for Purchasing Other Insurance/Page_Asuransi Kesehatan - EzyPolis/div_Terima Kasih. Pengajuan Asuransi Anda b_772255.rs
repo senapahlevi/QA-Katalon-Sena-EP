@@ -4,7 +4,12 @@
    <name>div_Terima Kasih. Pengajuan Asuransi Anda b_772255</name>
    <tag></tag>
    <elementGuidId>249018be-68a9-4ff0-a6cb-0028ff4f9a37</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.Toastify__toast-body</value>
@@ -13,39 +18,43 @@
          <key>XPATH</key>
          <value>//div[@id='s2bopfoye']/div</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;s2bopfoye&quot;)/div[@class=&quot;Toastify__toast-body&quot;][count(. | //div[@role = 'alert' and @class = 'Toastify__toast-body' and (text() = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ' or . = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ')]) = count(//div[@role = 'alert' and @class = 'Toastify__toast-body' and (text() = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ' or . = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ')])]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda&quot;i</value>
+         <value>internal:text=&quot;Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda&quot;</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e628bcc8-f220-42c5-99ea-7857ac5f581d</webElementGuid>
+      <webElementGuid>7fc0bd7e-b867-4521-b472-ad000b31434b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>afc3a417-a1b1-4175-b10e-83f779372533</webElementGuid>
+      <webElementGuid>edf14c9d-3741-4fcb-95e5-97b1a60cab73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>Toastify__toast-body</value>
-      <webElementGuid>f6b6abda-4ef9-44aa-9ae7-ae696d728375</webElementGuid>
+      <webElementGuid>edebf7c0-2732-427d-88c2-53e033906d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +62,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  </value>
-      <webElementGuid>ce4f4f4f-7477-42d4-b9a4-a4db836f5ba6</webElementGuid>
+      <webElementGuid>e5cf9e05-e6a3-4063-ac44-d2c2f295a1ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s2bopfoye&quot;)/div[@class=&quot;Toastify__toast-body&quot;]</value>
-      <webElementGuid>b1d5a0c9-d74a-4946-aba0-6e5503130b72</webElementGuid>
+      <webElementGuid>2a3d1bd0-72a8-4686-9a4e-1f932ddc1df7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='s2bopfoye']/div</value>
-      <webElementGuid>94c6ef1f-7721-461e-b4e1-312d0da0f2f3</webElementGuid>
+      <webElementGuid>ad47bc2c-0ebe-4356-8415-95dbcfc59f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/following::div[4]</value>
-      <webElementGuid>6c8b1c73-9fe2-477f-86dc-83ace57debc1</webElementGuid>
+      <webElementGuid>01d69071-5eaa-4dd6-958c-e5a72d753c85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::div[4]</value>
-      <webElementGuid>234e4946-64ac-4da5-be82-12483a3cc685</webElementGuid>
+      <webElementGuid>5b2e2bbb-a067-40c8-b17a-06e05b1f9a28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[2]</value>
-      <webElementGuid>f17b1374-3387-416d-8a95-31eb44a9230c</webElementGuid>
+      <webElementGuid>7447adeb-7801-4722-bb02-930192b074bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PT MANGGALA ARTHA SEJAHTERA'])[1]/preceding::div[4]</value>
-      <webElementGuid>a1d41984-3fbe-4d2f-b348-8912c8062c80</webElementGuid>
+      <webElementGuid>f0ae3114-d3d5-41d8-b20c-3ebf323a83e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,15 +118,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda']/parent::*</value>
-      <webElementGuid>c4314e78-e0f6-4939-ab97-0d393cd92cce</webElementGuid>
+      <webElementGuid>25d30434-a907-48b4-ba2d-4c4561e6dcd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/div/div/div/div</value>
-      <webElementGuid>335f3098-69d7-4349-84cd-1e6f749ea015</webElementGuid>
+      <value>//*[@id=&quot;__next&quot;]/div/main/div[2]/section/div[2]/form/div[7]/div/div</value>
+      <webElementGuid>643ba264-aa78-4bd0-b4b6-67baa0313e87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +134,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ' or . = 'Terima Kasih. Pengajuan Asuransi Anda berhasil. Silahkan cek email Anda  ')]</value>
-      <webElementGuid>2efdba53-dc87-4446-afda-9e2fb6e790a5</webElementGuid>
+      <webElementGuid>c9a82f48-bdd6-4591-9aaa-2ff74676089f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +142,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='s24ri8gdh']/div</value>
-      <webElementGuid>c46433c8-085c-4d52-941f-f448b4d5a41d</webElementGuid>
+      <webElementGuid>dc6a2316-1691-4580-a6e1-82eac501482e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

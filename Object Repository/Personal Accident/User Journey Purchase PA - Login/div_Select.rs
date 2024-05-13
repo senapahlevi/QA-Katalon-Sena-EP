@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8d64e6af-e3be-47bc-9c2d-aa00dc8363e8</webElementGuid>
+      <webElementGuid>8c6ad839-45fa-4eeb-aa3c-1b9d652c38e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-select__value-container css-1hwfws3</value>
-      <webElementGuid>cb4ed50a-252b-47d2-903d-c5a0e495b65b</webElementGuid>
+      <webElementGuid>a52de276-bdf1-47d4-b5a0-531b7f46f72b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select...</value>
-      <webElementGuid>38e56027-5241-4333-9212-3751bc28d531</webElementGuid>
+      <webElementGuid>0244d914-31c1-4e1b-9a57-158dc30a0579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]</value>
-      <webElementGuid>6ceeb942-530a-4fd0-ba00-f7f47a47dec1</webElementGuid>
+      <webElementGuid>dd2aaea3-d839-4b92-89f5-04f63222890b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[13]/div/div/div/div</value>
-      <webElementGuid>e64294b7-2bbb-4c14-955f-96868ed98634</webElementGuid>
+      <webElementGuid>2b626bc0-b893-4ca7-86d8-0694247a2137</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KTP'])[1]/preceding::div[4]</value>
-      <webElementGuid>a951abc6-e6b2-43ba-a00b-516b5e69b944</webElementGuid>
+      <webElementGuid>85075265-5bef-404c-af54-6b2dbac633ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div/div/div/div</value>
-      <webElementGuid>fdd2e1be-9770-4aea-b533-9776dd512bc2</webElementGuid>
+      <webElementGuid>683d8514-dadd-4de3-9e78-80ab81572398</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Select...' or . = 'Select...')]</value>
-      <webElementGuid>71b8e3a3-acda-4c71-a3c3-7e896ac676a9</webElementGuid>
+      <webElementGuid>6c725f1c-b8f1-4286-877f-e8a8327aef15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

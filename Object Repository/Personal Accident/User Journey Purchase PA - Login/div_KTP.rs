@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b69653cf-522b-4648-8970-e347d6f4d384</webElementGuid>
+      <webElementGuid>6775f0b8-36d9-4720-8391-dbefb3acbfd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-select__option react-select__option--is-focused css-1n7v3ny-option</value>
-      <webElementGuid>8bcf0481-452c-4ded-9cbe-e5a247287026</webElementGuid>
+      <webElementGuid>e6a895a0-d2d5-4d52-b016-0b132668400c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-user_identity_type-option-0</value>
-      <webElementGuid>fd0abcb4-8294-4ebd-bf3a-0f0156e5b07c</webElementGuid>
+      <webElementGuid>e0013a94-0a2b-487d-ab17-4c524f15dee2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4be6dbcb-de85-4a13-a26f-bf77e073a611</webElementGuid>
+      <webElementGuid>1f6316f3-1a8f-4205-8ed0-fd37dbf3d85d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>KTP</value>
-      <webElementGuid>d0f8cb41-483a-412b-89a7-fb20a2116ca5</webElementGuid>
+      <webElementGuid>11e81d91-976b-45df-9083-8273c0e575a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-user_identity_type-option-0&quot;)</value>
-      <webElementGuid>401a514f-2213-484c-97d8-f028665bd30c</webElementGuid>
+      <webElementGuid>773f9880-bf21-44e6-ad64-41a6668a32a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-user_identity_type-option-0']</value>
-      <webElementGuid>46f087a1-0700-4fcd-9fb3-36c6cf10136d</webElementGuid>
+      <webElementGuid>990da68f-45e6-48f1-b77d-a1eba5d903f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[13]/div/div/div[2]/div/div</value>
-      <webElementGuid>ea25d148-c67f-45a8-a650-8914e846e252</webElementGuid>
+      <webElementGuid>bbfe59e0-b365-4f8e-80a1-6c0ca3827964</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::div[5]</value>
-      <webElementGuid>24fa408a-df39-4bab-af49-efa837dc1e46</webElementGuid>
+      <webElementGuid>13937238-515d-4fe7-94e7-61c242805fb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP'])[1]/preceding::div[1]</value>
-      <webElementGuid>9d8ffad4-3102-4e24-a9b0-4fd60afb62e0</webElementGuid>
+      <webElementGuid>df0da285-7c79-48b2-bfd8-cf65acdebaaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SIM'])[1]/preceding::div[2]</value>
-      <webElementGuid>8877a573-1ffa-47a7-9633-f0e9bfefa939</webElementGuid>
+      <webElementGuid>1e23a3da-8dab-463d-85c5-4509accb2c0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='KTP']/parent::*</value>
-      <webElementGuid>362b3fce-d3ec-4f57-905d-fe886e290d65</webElementGuid>
+      <webElementGuid>7660b3cb-938a-4e0a-b054-879fa77c96a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div/div/div[2]/div/div</value>
-      <webElementGuid>2c90dde1-bf26-4d31-a1b2-4de75a7a6097</webElementGuid>
+      <webElementGuid>2b985655-58f2-43dd-a6aa-a6a0bd8c900c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-user_identity_type-option-0' and (text() = 'KTP' or . = 'KTP')]</value>
-      <webElementGuid>4af097e5-e972-4151-b329-d2599d97a6de</webElementGuid>
+      <webElementGuid>b6cd8f13-85e7-48c2-a4e6-f82837e5c169</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

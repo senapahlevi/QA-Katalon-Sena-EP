@@ -6,11 +6,11 @@
    <elementGuidId>fe616229-8f8c-451f-9870-1bfb1ba63449</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>path</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#headlessui-popover-button-7</value>
+         <value>path >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>be8bd599-d370-4dcc-bb5f-13e386eb1cdc</webElementGuid>
+      <webElementGuid>e5208793-535e-40dd-b765-f0ee54924c8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,8 +44,8 @@
       <matchCondition>equals</matchCondition>
       <name>d</name>
       <type>Main</type>
-      <value>M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z</value>
-      <webElementGuid>7d999f4f-8de1-4180-9853-6f012e085b52</webElementGuid>
+      <value>M9.41,8 L12.7,4.71 C12.89,4.53 13,4.28 13,4 C13,3.45 12.55,3 12,3 C11.72,3 11.47,3.11 11.29,3.29 L8,6.59 L4.71,3.29 C4.53,3.11 4.28,3 4,3 C3.45,3 3,3.45 3,4 C3,4.28 3.11,4.53 3.29,4.71 L6.59,8 L3.3,11.29 C3.11,11.47 3,11.72 3,12 C3,12.55 3.45,13 4,13 C4.28,13 4.53,12.89 4.71,12.71 L8,9.41 L11.29,12.7 C11.47,12.89 11.72,13 12,13 C12.55,13 13,12.55 13,12 C13,11.72 12.89,11.47 12.71,11.29 L9.41,8 Z</value>
+      <webElementGuid>e8b80b6c-839f-49f9-a247-fc7166db087b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,15 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-popover-button-7&quot;)/svg[@class=&quot;h-5 w-5 block lg:hidden&quot;]/path[1]</value>
-      <webElementGuid>bc89a84b-f2b8-451f-a1ab-7f43cd5a9e29</webElementGuid>
+      <value>id(&quot;header&quot;)/div[@class=&quot;title-bar&quot;]/div[@class=&quot;close-snap-button clickable&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>85b1d863-558e-490c-860b-ed286952a8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_Syarat dan Ketentuan_popup_1713947298114</value>
+      <webElementGuid>1dd139ed-eca8-4af1-884f-4fc52c336b00</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

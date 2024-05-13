@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7e09a8ac-dd3b-4e4c-b064-72c755734d71</webElementGuid>
+      <webElementGuid>8704203e-da22-4742-80fc-d99ae93f9db5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-select__value-container css-1hwfws3</value>
-      <webElementGuid>6734532b-3347-477a-8688-b033782f3cf9</webElementGuid>
+      <webElementGuid>81a7b0db-d06b-4e05-a42c-6a1ef61035b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih Kewarganegaraan</value>
-      <webElementGuid>4a1e5e9c-f727-4507-80b8-48e4e407f03e</webElementGuid>
+      <webElementGuid>63caba4c-94c9-4313-b515-dc7018c92d46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;booking-form&quot;)/div[@class=&quot;flex-1 w-full&quot;]/form[1]/div[@class=&quot;mt-3 sm:mt-6 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-6&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1hwfws3&quot;]</value>
-      <webElementGuid>05478642-759b-4991-8246-db6126795112</webElementGuid>
+      <webElementGuid>4d488147-dd73-4fcf-9ad3-2c00c99b6e28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div/div</value>
-      <webElementGuid>d378dbd9-e739-47a6-b219-63bcfd957536</webElementGuid>
+      <webElementGuid>bc3de842-7faf-4c65-8396-e4961a24b58b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::div[4]</value>
-      <webElementGuid>76cdc518-07f5-4294-be06-12773a63cb0c</webElementGuid>
+      <webElementGuid>3005ea5f-5676-400b-85d3-c92d8c38941a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/div/div</value>
-      <webElementGuid>1c8afa3b-b927-4a38-b464-1258925d4839</webElementGuid>
+      <webElementGuid>33ff7454-c9bd-4d52-9a60-440e7a69e2fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Pilih Kewarganegaraan' or . = 'Pilih Kewarganegaraan')]</value>
-      <webElementGuid>85bebeea-56df-426b-9e6c-3b394fc9da7a</webElementGuid>
+      <webElementGuid>8e29ae5b-4c88-4fc6-a09b-fc902ac0dd34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

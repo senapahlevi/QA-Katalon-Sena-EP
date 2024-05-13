@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>479e2c8b-5e80-4835-b1ec-d0539b78bdc9</webElementGuid>
+      <webElementGuid>b332d77d-0366-4732-94ca-1163eb3db01f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>destination_city</value>
-      <webElementGuid>dd859d05-8d61-4350-adec-c7e4d246d55f</webElementGuid>
+      <webElementGuid>2cbae310-3df6-4218-acca-a6363302d4d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1ef259bf-c9df-4d87-8bd4-c8f1cc7da491</webElementGuid>
+      <webElementGuid>5f0462a9-7254-4a45-a21b-94abe122577d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>destination_city</value>
-      <webElementGuid>9706d23a-1abc-44e2-82ba-53e7a087f1d0</webElementGuid>
+      <webElementGuid>7174ef68-4eec-4530-a0ff-df6f0e7f6699</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: Semarang</value>
-      <webElementGuid>1fc3a548-f75f-4712-8986-7bbe3d646850</webElementGuid>
+      <webElementGuid>d8f0339c-ca85-453b-ab77-bff7b0eecc3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>94d02068-afcd-4955-a7b9-8fdd83b25c6c</webElementGuid>
+      <webElementGuid>31ed7996-f2db-40c5-947c-15f813e253ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;destination_city&quot;)</value>
-      <webElementGuid>cec0cb46-4766-401c-b925-fd357c44228c</webElementGuid>
+      <webElementGuid>3997f43a-a030-40f3-b7cc-43766b83ef5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>value</name>
       <type>Main</type>
       <value>S</value>
-      <webElementGuid>83edc66f-2588-4e80-a47e-0829e8101156</webElementGuid>
+      <webElementGuid>48c3fd04-e70f-4c48-b06c-5865ae807443</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='destination_city']</value>
-      <webElementGuid>6b901210-4b50-4ad2-9e54-1e7702d1d5b4</webElementGuid>
+      <webElementGuid>b7c6045a-aba1-41d2-824a-1fe6c4fd2cb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div[4]/div/div/input</value>
-      <webElementGuid>077a4fca-7512-4302-b288-749b4188cdd2</webElementGuid>
+      <webElementGuid>f731b241-3b67-4e32-84f1-6672381ba332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/input</value>
-      <webElementGuid>652d316a-ff55-468a-9936-89ddac81b9de</webElementGuid>
+      <webElementGuid>324c82a8-c076-40df-858a-9b678a692f21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'destination_city' and @type = 'text' and @name = 'destination_city' and @placeholder = 'Contoh: Semarang']</value>
-      <webElementGuid>c9704a22-34ac-4943-8cc6-a7591d22bcf7</webElementGuid>
+      <webElementGuid>53feb34c-cb53-4b06-9938-84f0691919d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

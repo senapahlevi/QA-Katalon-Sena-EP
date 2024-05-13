@@ -39,6 +39,106 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Purchase according to the package and price PA/button_Selanjutnya_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255",
+      "brokenLocator": "//div[@id\u003d\u0027s2bopfoye\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Kirim\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Other Insurance/User Journey for Purchasing Other Insurance/Page_Asuransi Kesehatan - EzyPolis/div_Terima Kasih. Pengajuan Asuransi Anda b_772255_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya",
+      "brokenLocator": "//button[@type\u003d\u0027submit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/input__form-field_field-input__Z28kU rounde_88b90b",
+      "brokenLocator": "//input[@value\u003d\u002701 Mei 2024\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/main/section/div[2]/div/div/div/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/input__form-field_field-input__Z28kU rounde_88b90b_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya",
+      "brokenLocator": "//*[@id\u003d\"__next\"]/div/main/section/div[2]/div/div[2]/div[1]/div[1]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@type\u003d\u0027submit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Rp75.000",
+      "brokenLocator": "//nav[@id\u003d\u0027header\u0027]/div[2]/div/div/div[3]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Rp75.000_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya-Bayar Personal Form",
+      "brokenLocator": "//*[@id\u003d\"__next\"]/div/main/section/div[2]/div/div[2]/div[1]/div[1]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@type\u003d\u0027submit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya-Bayar Personal Form_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Virtual account",
+      "brokenLocator": "//*[@id\u003d\"application\"]/div/div/div[3]/div[1]/div/div[1]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Virtual account_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Select_Virtual_Account_BCA",
+      "brokenLocator": "//*[@id\u003d\"application\"]/div/div/div[3]/div[1]/div/div[2]/div/a[1]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Select_Virtual_Account_BCA_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Lihat_Daftar_Polis",
+      "brokenLocator": "//*[@id\u003d\"__next\"]/div/main/section/div[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cara bayar\u0027])[1]/preceding::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Lihat_Daftar_Polis_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Lihat_Daftar_Polis",
+      "brokenLocator": "//*[@id\u003d\"__next\"]/div/main/section/div[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Lihat_Daftar_Polis_position.png"
     }
   ]
 }

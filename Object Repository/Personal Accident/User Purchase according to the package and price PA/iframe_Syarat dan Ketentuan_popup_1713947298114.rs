@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>iframe[name=&quot;popup_1714065846522&quot;]</value>
+         <value>iframe[name=&quot;popup_1715337461190&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>272b0a03-ed2b-481b-b18a-e0b18f7382be</webElementGuid>
+      <webElementGuid>e9b6c645-7899-4e7a-bf4d-b980ade72866</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://app.sandbox.midtrans.com/snap/v4/popup?origin_host=https://staging.ezypolis.com:3001&amp;client_key=SB-Mid-client-3ypF2yRS05oytfet#/</value>
-      <webElementGuid>46c97c7e-0e2a-49a5-b83b-6310267e5bab</webElementGuid>
+      <webElementGuid>deded4b0-bd11-4fe4-9bc5-6c39ce1b46fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>id</name>
       <type>Main</type>
       <value>snap-midtrans</value>
-      <webElementGuid>fb8917d8-2e1a-472c-8db5-8f9b311a29fa</webElementGuid>
+      <webElementGuid>3a471e0f-da56-46e2-b91c-0e9be8ab9ee6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>popup_1714065846522</value>
-      <webElementGuid>917fe75e-c498-45e3-bdf1-b20db8b1f3d5</webElementGuid>
+      <value>popup_1715337461190</value>
+      <webElementGuid>e72d93ea-bfbe-4976-ad43-d99b36460cba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;snap-midtrans&quot;)</value>
-      <webElementGuid>6243c84b-f87c-4032-9788-3c8e40c6e3ba</webElementGuid>
+      <webElementGuid>7aae0a2e-6903-4cbf-96da-0a5dba160674</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='snap-midtrans']</value>
-      <webElementGuid>70b737d2-1c48-4372-9cca-22eeb93f3f98</webElementGuid>
+      <webElementGuid>f3491b3d-0c18-480b-8554-f425e07e6a1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iframe</value>
-      <webElementGuid>173fa26e-be57-4b3d-ac98-5bfc64283c35</webElementGuid>
+      <webElementGuid>f3926d8f-2b92-41ce-a4a6-2d13cd579602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://app.sandbox.midtrans.com/snap/v4/popup?origin_host=https://staging.ezypolis.com:3001&amp;client_key=SB-Mid-client-3ypF2yRS05oytfet#/' and @id = 'snap-midtrans' and @name = 'popup_1715337461190']</value>
+      <webElementGuid>4dae75af-9caf-4425-9bfb-be0a712095f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://app.sandbox.midtrans.com/snap/v4/popup?origin_host=https://staging.ezypolis.com:3001&amp;client_key=SB-Mid-client-3ypF2yRS05oytfet#/' and @id = 'snap-midtrans' and @name = 'popup_1715255089807']</value>
+      <webElementGuid>b8a7f16f-d885-4a60-8866-c6eace130633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://app.sandbox.midtrans.com/snap/v4/popup?origin_host=https://staging.ezypolis.com:3001&amp;client_key=SB-Mid-client-3ypF2yRS05oytfet#/' and @id = 'snap-midtrans' and @name = 'popup_1714565545387']</value>
+      <webElementGuid>8e5dbaf2-eb2e-41db-8855-b3ee84973548</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

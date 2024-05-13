@@ -21,105 +21,92 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://staging.ezypolis.com:3001/')
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Hi senapahlev1'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Setuju'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/img'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/a_Masuk'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_SelanjutnyaAsuransi Kecelakaan DiriPT M_494798'), 
-    0)
+WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input_Email address_email'), 
+    'senapahlevi1@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input_Password_password'), 
+    'RigbBhfdqODKcAsiUrg+1Q==')
+
+WebUI.sendKeys(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input_Password_password'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/a_Asuransi Kecelakaan Diri'))
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_SelanjutnyaAsuransi Kecelakaan DiriPT M_494798'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/h4_Proteksi Bronze'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__form-field_field-input__Z28kU rounde_88b90b'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Proteksi Bronze'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_23'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_SelanjutnyaProteksi Bronze'))
+
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__vehicle_number'), 
-    'B 13182 CF')
+    'B 1234 ctb')
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__hometown'), 'Tangerang')
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__destination_city'), 
-    'Yogyakarta')
+    'Semarang')
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya (1)'))
+WebUI.click(findTestObject('Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya - destination'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_first_name'))
-
-WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_first_name'), 
-    'sena ')
-
-WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_last_name'), 
-    'Pahlevi')
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/p_75.000IDR'))
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_birth_place'), 
-    'Yogyakarta')
-
-WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_birth_date'), 
-    '')
-
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_birth_date'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/select_194419451946194719481949195019511952_3da7a2'), 
-    '2009', true)
-
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_22'))
-
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Pilih Jenis Kelamin'))
-
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Laki-laki'))
+    'jakarta')
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Pilih Kewarganegaraan'))
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Indonesia'))
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_address'), 
-    'Jl Kenangan No 8')
+    'Jl kenangan no 8')
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Pilih Provinsi'))
+WebUI.click(findTestObject('Personal Accident/User Journey Purchase PA - Login/input_Pilih Provinsi_react-select-province-input'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Banten'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_DKI Jakarta'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input_Pilih Kota_react-select-cities-input'))
+WebUI.click(findTestObject('Personal Accident/User Journey Purchase PA - Login/input_Pilih Kota_react-select-cities-input'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Kota Tangerang Selatan'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Kota Jakarta Timur'))
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input_Kode Pos(opsional)_zipcode'), 
-    '141453')
-
-WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_phone'), 
-    '6281289318938913')
+    '1539423')
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Select'))
 
 WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_KTP'))
 
 WebUI.setText(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/input__user_identity_num'), 
-    '1289398238918942')
+    '3128129392193293')
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya (2)'))
+WebUI.click(findTestObject('Personal Accident/User Journey Purchase PA - Login/button_Selanjutnya-Bayar Personal Form'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/span_Konfirmasi  Bayar'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/button_Konfirmasi  Bayar'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_EZYPOLIS'))
+WebUI.switchToFrame(findTestObject('Midtrans Snap.js/iframe id midtrans object'), 3)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Semua metode pembayaran'))
+WebUI.click(findTestObject('Midtrans Snap.js/iframe - midtrans va'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_EZYPOLIS_modal-iframe'))
+WebUI.waitForElementClickable(findTestObject('Midtrans Snap.js/iframe - midtrans - bca selected va'), 5)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/svg'))
+WebUI.click(findTestObject('Midtrans Snap.js/iframe - midtrans - bca selected va'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Virtual account_payment-page-text horizontal'))
+WebUI.waitForElementVisible(findTestObject('Midtrans Snap.js/svg - Close'), 5)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Salin'))
+WebUI.waitForElementClickable(findTestObject('Midtrans Snap.js/svg - Close'), 5)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Pembayaran berhasilRp75.000Order ID pay_9dd434'))
+WebUI.click(findTestObject('Midtrans Snap.js/svg - Close'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/a_Asuransi Saya'))
+WebUI.click(findTestObject('Personal Accident/User Journey Purchase PA - Login/div_Lihat_Daftar_Polis'))
 
-WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/td_sena  Pahlevi'))
+WebUI.click(findTestObject('Object Repository/Personal Accident/User Journey Purchase PA - Login/td_sena pahlevi'))
 
 WebUI.closeBrowser()
 

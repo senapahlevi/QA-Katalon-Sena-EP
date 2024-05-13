@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>78e099d5-62e8-45a6-ad2a-c0e73679cedf</webElementGuid>
+      <webElementGuid>29e23b3b-ea54-4e23-ab04-a433d1325a1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-select__option react-select__option--is-focused css-1n7v3ny-option</value>
-      <webElementGuid>5e848699-962f-4be2-9aae-276d6242cb97</webElementGuid>
+      <webElementGuid>ede4d62f-5be1-43f8-af3a-66be2df11625</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-user_citizenship-option-0</value>
-      <webElementGuid>4b2cbcc6-ebe1-44d9-88a0-bcef69f8588b</webElementGuid>
+      <webElementGuid>20d55fd7-a1ef-471f-8b8d-55e26a18be31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>b53a4528-64ad-45b0-baca-01c1e22ec3e7</webElementGuid>
+      <webElementGuid>29673b5e-a760-45a8-9c8d-9531ae5493fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Indonesia</value>
-      <webElementGuid>d4c2dd1f-2e10-4f29-8de4-4ecb4ee108ab</webElementGuid>
+      <webElementGuid>f17b9d46-d451-4dca-a8b5-79e7e1487623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-user_citizenship-option-0&quot;)</value>
-      <webElementGuid>47e9367c-b470-4339-b394-49d695364dd3</webElementGuid>
+      <webElementGuid>4b33ad97-c958-49b1-9587-a2ad25fbf41f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-user_citizenship-option-0']</value>
-      <webElementGuid>3735d0c5-0ec2-4cb6-b638-39c120f2bb24</webElementGuid>
+      <webElementGuid>42bca1e7-0bda-48c3-a1f5-a34d6d88f401</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[6]/div/div/div[2]/div/div</value>
-      <webElementGuid>b50bd39f-11e9-4e4f-b430-0f6e921ec060</webElementGuid>
+      <webElementGuid>8f8e900d-56ec-4167-81e3-9ae45ad3f27b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Kewarganegaraan'])[1]/following::div[5]</value>
-      <webElementGuid>0be65692-7a83-4ab1-a869-31e01cff9f45</webElementGuid>
+      <webElementGuid>99c30ceb-477e-4873-bb3b-44e97e7b9874</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asing'])[1]/preceding::div[1]</value>
-      <webElementGuid>d1c9b64d-24e9-4f7a-a30c-2683b02b3b59</webElementGuid>
+      <webElementGuid>8738d7af-4bf5-4fca-bf06-cb3abd387294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Indonesia']/parent::*</value>
-      <webElementGuid>7c513a9b-a27d-4205-b3fd-fc8b136d682e</webElementGuid>
+      <webElementGuid>b44ba3f1-02ca-40fe-b15a-df499b289ce7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div</value>
-      <webElementGuid>6f422315-1377-43bb-b5d0-89cfe81e207b</webElementGuid>
+      <webElementGuid>cd9e2b0b-128d-4aee-be2d-7b98ae10e985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-user_citizenship-option-0' and (text() = 'Indonesia' or . = 'Indonesia')]</value>
-      <webElementGuid>ac6dd68a-1c94-4a1d-a443-d005a08e4d15</webElementGuid>
+      <webElementGuid>ca00221d-bc4d-41c7-95c7-95c5ea4afb76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

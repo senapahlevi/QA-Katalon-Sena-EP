@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Virtual account_bank-list-content</name>
+   <tag></tag>
+   <elementGuidId>66a511a8-d645-464f-aa1d-d591ad4b359f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bank-list-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/div/div[5]/div/div/div[2]/div/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;banklogo&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6ff23dd-1633-4a51-8d78-0f22c3932d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bank-list-content</value>
+      <webElementGuid>27b5e9ea-0c6f-4f6d-89cd-3d9d1310a103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-container-list&quot;]/div[5]/div[@class=&quot;collapsible-payment&quot;]/div[@class=&quot;collapsible collapsible-payment--multiple&quot;]/div[@class=&quot;content collapsible-payment--multiple opened&quot;]/div[@class=&quot;bank-list-layout horizontal&quot;]/a[@class=&quot;bank-list&quot;]/div[@class=&quot;payment-page-text horizontal&quot;]/div[@class=&quot;bank-list-content&quot;]</value>
+      <webElementGuid>7729fd85-c37e-44e3-8819-05419020013e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Midtrans Snap.js/iframe - midtrans - bca selected va</value>
+      <webElementGuid>727ee61d-e6a8-4389-9953-d01118d5889c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div/div[5]/div/div/div[2]/div/a/div/div</value>
+      <webElementGuid>88594984-a6cc-41b1-a03f-6b37ca5312dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual account'])[1]/following::div[10]</value>
+      <webElementGuid>9dfede1a-c5fc-4fe3-975a-cca2fca01435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kartu kredit/debit'])[1]/following::div[23]</value>
+      <webElementGuid>0300b8c9-54df-47b5-8470-3c587bbf09f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank lainnya'])[1]/preceding::div[11]</value>
+      <webElementGuid>00e65d2b-338a-4e9c-8997-0da6830acc76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KlikBCA'])[1]/preceding::div[15]</value>
+      <webElementGuid>c1307149-87a6-4fce-99d0-715adf6c4846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/a/div/div</value>
+      <webElementGuid>dc5429e3-6c5d-4076-975a-3bf56366c976</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

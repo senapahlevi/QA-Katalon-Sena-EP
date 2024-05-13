@@ -6,12 +6,12 @@
    <elementGuidId>c97cfd0a-d0a1-456e-9ebc-8c2105a20903</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='application']/div/div/div/div[3]/div[2]/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.float-right.clickable.copy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/div/div/div[3]/div[2]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2a941dbb-213a-4c5e-8133-eb4e4be6cfae</webElementGuid>
+      <webElementGuid>5f46b577-0f32-4161-b99e-27043afd9141</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>float-right clickable copy</value>
-      <webElementGuid>1ae81368-c63c-452e-a38c-64005660b679</webElementGuid>
+      <webElementGuid>5563213f-0fd7-4407-a659-8efc23a78234</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Salin</value>
-      <webElementGuid>f100d218-9e1f-4bb4-bedc-bc788bdb033e</webElementGuid>
+      <webElementGuid>2d3e2734-bc09-4703-8349-962e49a4f72e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-page&quot;]/div[1]/div[@class=&quot;payment-page-layout payment-page-text&quot;]/div[2]/div[@class=&quot;float-right clickable copy&quot;]</value>
-      <webElementGuid>34b6b2f0-45f8-49a7-8ebc-1623de23e835</webElementGuid>
+      <webElementGuid>2b924e91-6194-483d-9d51-b5a5745634cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_concat(id(, , snap-midtrans, , ))_po_6b00ce</value>
-      <webElementGuid>5c08fc8f-aa79-4008-afd3-ce13af3a1e52</webElementGuid>
+      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_Syarat dan Ketentuan_popup_1713947298114</value>
+      <webElementGuid>354f49ca-5147-4202-8f8b-dbd0bd438897</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='application']/div/div/div/div[3]/div[2]/div[2]</value>
-      <webElementGuid>b3ae7856-3b17-4ce3-bdf9-2c43b1f6e556</webElementGuid>
+      <webElementGuid>d46c9057-e983-41eb-a87b-ee418cd9814e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor virtual account'])[1]/following::div[3]</value>
-      <webElementGuid>02d926f9-00e3-46fc-bc48-fff40b06b14e</webElementGuid>
+      <webElementGuid>e274639a-57f2-4c17-947e-59ca4c9e1ec2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lakukan pembayaran dari rekening bank BCA ke nomor virtual account berikut.'])[1]/following::div[5]</value>
-      <webElementGuid>302164fb-baf4-49dc-8c6f-fa6d9b8b7d22</webElementGuid>
+      <webElementGuid>acc0277b-fae6-4b86-b6b5-7fe68fed62e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara bayar'])[1]/preceding::div[1]</value>
-      <webElementGuid>5e915655-af13-498b-8d30-844404dc497f</webElementGuid>
+      <webElementGuid>374fd9dc-9d9d-4125-8331-458686f7a133</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ATM BCA'])[1]/preceding::div[3]</value>
-      <webElementGuid>ee433ea0-f4da-408a-8d63-4e73d231f15b</webElementGuid>
+      <webElementGuid>fc09d1b8-3d2f-4be8-90c6-b89153379bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Salin']/parent::*</value>
-      <webElementGuid>0f9fdf5a-f1bf-4f4d-a922-72478500e6d0</webElementGuid>
+      <webElementGuid>439b8f52-c06f-48b4-ad81-fefd5692357d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]</value>
-      <webElementGuid>22e728fa-8f8f-42c9-8362-3078456c1017</webElementGuid>
+      <webElementGuid>7dabaccf-e1e9-4b39-a160-33b9bccb7c39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Salin' or . = 'Salin')]</value>
-      <webElementGuid>f265ed8b-42fa-4ca0-b451-31412264a401</webElementGuid>
+      <webElementGuid>57e8e983-2282-4ea0-8fae-126297403538</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

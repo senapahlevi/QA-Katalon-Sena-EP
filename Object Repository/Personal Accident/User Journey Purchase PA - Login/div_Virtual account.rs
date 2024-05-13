@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Virtual account</name>
+   <tag></tag>
+   <elementGuidId>722ab229-584a-45f9-84c2-4c7b831af3f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapsible-payment--multiple__body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;application&quot;]/div/div/div[3]/div[1]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Virtual account$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45431a86-c4cf-4fd3-abff-0daac2837c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsible-payment--multiple__body</value>
+      <webElementGuid>0f126523-add8-4f99-8073-4750fb77ec4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual account</value>
+      <webElementGuid>32a657d3-e296-4833-96ff-1cf7120e715f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-container-list&quot;]/div[3]/div[@class=&quot;collapsible-payment&quot;]/div[@class=&quot;collapsible collapsible-payment--multiple&quot;]/div[@class=&quot;collapse-button collapsible-payment--multiple&quot;]/div[@class=&quot;collapsible-payment--multiple__body&quot;]</value>
+      <webElementGuid>ad5b58ea-5f09-4fa9-957a-c3a3858e91f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Personal Accident/User Journey Purchase PA - Login/iframe_Syarat dan Ketentuan_popup_1713947298114</value>
+      <webElementGuid>d28dba08-cf67-4caf-8cd2-9e07e7834687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>1607a8eb-dfbb-4a3e-80d2-49e74fa0a97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kartu kredit/debit'])[1]/following::div[12]</value>
+      <webElementGuid>3385172b-e99c-4df9-8ad7-7ab696fecab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua metode pembayaran'])[1]/following::div[15]</value>
+      <webElementGuid>c504a29d-8555-4bc7-9838-e51df1f8fa26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank lainnya'])[1]/preceding::div[20]</value>
+      <webElementGuid>037292ec-f543-415c-a488-7f8c1089ebcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>84dd9fa1-ca9e-4c1d-8443-44f340981c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Virtual account' or . = 'Virtual account')]</value>
+      <webElementGuid>f1e81c77-a0c6-4aae-a455-ecbbc7444e48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

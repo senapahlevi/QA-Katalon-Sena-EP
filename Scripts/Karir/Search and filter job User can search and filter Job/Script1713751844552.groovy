@@ -21,11 +21,16 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://staging.ezypolis.com:3001/')
 
+WebUI.findWebElements(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/a_Karir'), 
+    0)
+
 WebUI.click(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/a_Karir'))
 
-WebUI.setText(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/input_seEzyitu_jobtitle'), 'Claim')
+WebUI.setText(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/input_seEzyitu_jobtitle'), 
+    'Claim')
 
-WebUI.sendKeys(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/input_seEzyitu_jobtitle'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/input_seEzyitu_jobtitle'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/div_ClaimFulltimeKualifikasi Pekerjaan Lore_a3a947'))
 

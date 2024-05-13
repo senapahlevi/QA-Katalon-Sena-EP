@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>93d91c5c-6718-482a-b446-ddbe55b82051</webElementGuid>
+      <webElementGuid>5bf4065d-7110-494d-a091-68cadbeeebfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>zipcode</value>
-      <webElementGuid>8aab09ae-5160-494d-9159-eb8fe9b713b7</webElementGuid>
+      <webElementGuid>937a590b-4d0b-464b-9efa-c244be1f4d09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>9ef391e3-d909-4df4-b9ad-cdade546070c</webElementGuid>
+      <webElementGuid>baae0742-bb79-4273-a941-8e052467a154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>zipcode</value>
-      <webElementGuid>8780188e-bbc9-4245-a098-0daa0e4d01a4</webElementGuid>
+      <webElementGuid>27f894b0-3b55-4c5f-980b-c0de55f8b0bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: 14153</value>
-      <webElementGuid>68d98a04-9543-4bf6-8139-3cd481dda0c2</webElementGuid>
+      <webElementGuid>1d469a0d-ca8a-4e4a-b509-2580a4e2531c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field_field-input__Z28kU</value>
-      <webElementGuid>70091808-16d5-40d0-9b31-c8318ec7bcde</webElementGuid>
+      <webElementGuid>5e46406e-d8a8-4374-9fa4-e59f3dbb2e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;zipcode&quot;)</value>
-      <webElementGuid>4d1419da-20c1-4178-9d1f-30955c133e20</webElementGuid>
+      <webElementGuid>4b050ec2-6ec1-47fd-9c19-1c08ec91d5f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='zipcode']</value>
-      <webElementGuid>d7b9b79f-7983-4acf-bdc6-f39f3e883f7d</webElementGuid>
+      <webElementGuid>a80bb11c-3895-483f-9319-69e48fd67f7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[10]/div/input</value>
-      <webElementGuid>bcd78f92-934f-450d-b490-26e829177bb2</webElementGuid>
+      <webElementGuid>d82d31c0-25db-4088-8d0f-658c0a3dc580</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/input</value>
-      <webElementGuid>c9bd479c-9711-426c-a14e-ebddadd26d80</webElementGuid>
+      <webElementGuid>c4587363-a99f-4daf-8d5f-71b8e08c220d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'zipcode' and @type = 'number' and @name = 'zipcode' and @placeholder = 'Contoh: 14153']</value>
-      <webElementGuid>911e6dba-7be3-4cce-8b5a-ed19ec5e77ce</webElementGuid>
+      <webElementGuid>c528fc09-d63b-48f3-9987-061f2dde40ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

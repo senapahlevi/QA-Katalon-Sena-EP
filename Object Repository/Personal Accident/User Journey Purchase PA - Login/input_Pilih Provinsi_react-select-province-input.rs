@@ -6,12 +6,12 @@
    <elementGuidId>61f71b1c-896d-4978-b4f9-de9b969fadb0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-province-input</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;booking-form&quot;]/div[1]/form/div[2]/div/div[8]/div/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='react-select-province-input']</value>
+         <key>CSS</key>
+         <value>#react-select-province-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>51ef5d03-367d-4a5c-b6a2-f0d35c92a18e</webElementGuid>
+      <webElementGuid>f4770597-55bd-4929-8f9d-13efca94596f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>4fda9db3-12d5-47a9-a12e-b0031cf855d7</webElementGuid>
+      <webElementGuid>0b2296d3-9f0a-4785-9dce-2b54172dc5a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fe0d7424-b50e-43fc-84de-30c9de205fcb</webElementGuid>
+      <webElementGuid>3d1abb3e-7c06-47e3-a001-1d5d851ff3ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a802218b-660c-406e-97bb-622e34766d6a</webElementGuid>
+      <webElementGuid>8dcbf204-60a5-49af-bb90-5f2b75c4b686</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-province-input</value>
-      <webElementGuid>f379d862-1aac-4b08-83ba-794e938e86f4</webElementGuid>
+      <webElementGuid>9978e927-0e30-4f49-a6a2-198c5f2ab38c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8c35a06b-0f98-429d-90ee-01b327a9bd2f</webElementGuid>
+      <webElementGuid>37a157df-83bd-4da9-aa0f-34ebffd36366</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cd5abbd0-a5ec-492d-a6ef-f0cb189c631f</webElementGuid>
+      <webElementGuid>4385d53c-f8cb-4573-929d-e58445770f96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d644ee58-f0e0-4f84-be23-ca7519335390</webElementGuid>
+      <webElementGuid>b989be65-d459-4e8b-8f0b-e62437d5c939</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>30928989-5aba-4c73-a563-1aec15d164e9</webElementGuid>
+      <webElementGuid>0911c282-18b4-41ed-9e02-ab057d4dd79c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-province-input&quot;)</value>
-      <webElementGuid>0191ee68-0b9e-4841-9a24-ef447fd3aafd</webElementGuid>
+      <webElementGuid>830ecf74-081d-482b-b010-7a165b03da07</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='react-select-province-input']</value>
-      <webElementGuid>62b4ea54-55f1-4403-a53b-663ec2e1dd41</webElementGuid>
+      <webElementGuid>02027a86-0833-4162-a7d0-69249410f8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='booking-form']/div/form/div[2]/div/div[8]/div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>c3dc80df-c3bf-4603-9134-620c3bef8453</webElementGuid>
+      <webElementGuid>64d52a77-2e48-45ba-9cf2-2679cae6c331</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[2]/div/input</value>
-      <webElementGuid>9f3648c8-5649-4db6-9365-1f351f03834d</webElementGuid>
+      <webElementGuid>a4edb493-ac2b-4ab1-b468-2f4eb6563cef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'react-select-province-input' and @type = 'text']</value>
-      <webElementGuid>ac63d98e-2cbc-4f56-a176-38185371d023</webElementGuid>
+      <webElementGuid>27f6be4f-fa2b-4c5f-86cc-9176b87f4664</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

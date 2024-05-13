@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;customer_phone&quot;]</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='customer_phone']</value>
+         <value>//input[@value='01 Mei 2024']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nomor Handphone&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;DD/MM/YYYY&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,47 +29,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cfaaafd2-376d-4567-95d6-222e4fd645c9</webElementGuid>
+      <webElementGuid>25dcc228-c3ef-48b1-adab-a75287e2e419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>tel</value>
-      <webElementGuid>dc53c52c-98de-48e6-92e9-49c3420679e1</webElementGuid>
+      <value>text</value>
+      <webElementGuid>20f3af23-79af-4532-a4bf-737da19085f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>placeholder-gray-4 placeholder-italic shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light</value>
-      <webElementGuid>8f4b242b-4703-4092-8d16-1a629f91794a</webElementGuid>
+      <value>form-field_field-input__Z28kU !rounded-r-none</value>
+      <webElementGuid>defa3c69-5a0b-41cf-8400-4c007234ac65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nomor Handphone</value>
-      <webElementGuid>82789b3c-a758-4e92-82b1-ca4d4a0b9b61</webElementGuid>
+      <value>DD/MM/YYYY</value>
+      <webElementGuid>ad9d157e-4a5c-421e-a39b-aef35dc54354</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>21 April 2024</value>
-      <webElementGuid>82bb673e-519d-4a12-b17c-f1643d9e1669</webElementGuid>
+      <value>01 Mei 2024</value>
+      <webElementGuid>739d2bf7-a609-4b5d-a179-49abaebb3258</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/div[@class=&quot;flex-col justify-content-center mb-26 sm-text-center&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;lg:mx-72 sm:mx-full&quot;]/form[1]/div[@class=&quot;mb-6&quot;]/input[@class=&quot;placeholder-gray-4 placeholder-italic shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-brand-pink focus:border-brand-pink block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-brand-pink dark:shadow-sm-light&quot;]</value>
-      <webElementGuid>485b31ce-0fb5-4de2-9758-9f6d4a786eaf</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 w-full max-w-3xl mx-auto&quot;]/div[@class=&quot;mt-10&quot;]/div[@class=&quot;relative w-full max-w-xs mx-auto&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;form-field_field-wrapper__aVsNL&quot;]/div[@class=&quot;relative flex&quot;]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;form-field_field-input__Z28kU !rounded-r-none&quot;]</value>
+      <webElementGuid>3e285570-d259-40f9-bf82-149fbc17d0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -97,6 +97,38 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='01 Mei 2024']</value>
+      <webElementGuid>6cc4a832-a6a4-4bec-89a0-395832195042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>e94cd5e1-f5a4-4de2-a179-767b44dbd837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>79d2c2b3-9b2f-4c34-adbc-4fe90a18b0f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'DD/MM/YYYY']</value>
+      <webElementGuid>277bcd18-a733-4172-9f26-375b7b9c429a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -230,29 +262,5 @@
       <type>Main</type>
       <value>//input[@value='21 April 2024']</value>
       <webElementGuid>4766e91b-e2ab-437a-8ea2-be16d9d0ac24</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='__next']/div/main/section/div[2]/div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>49a3dd44-37e5-4dfc-b569-baa980160c71</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>6ffbe692-5196-48fe-a6cd-72893702907c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'DD/MM/YYYY']</value>
-      <webElementGuid>99132a7b-c0ec-404e-8f0e-07b42922dc1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
