@@ -94,9 +94,13 @@ WebUI.switchToFrame(findTestObject('Midtrans Snap.js/iframe id midtrans object')
 
 WebUI.click(findTestObject('Midtrans Snap.js/iframe - midtrans va'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.waitForElementClickable(findTestObject('Midtrans Snap.js/iframe - midtrans - bca selected va'), 5)
 
 WebUI.click(findTestObject('Midtrans Snap.js/iframe - midtrans - bca selected va'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForElementVisible(findTestObject('Midtrans Snap.js/svg - Close'), 5)
 

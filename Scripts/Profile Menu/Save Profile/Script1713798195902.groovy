@@ -31,6 +31,8 @@ WebUI.click(findTestObject('Object Repository/Profile Menu/Save Profile User/spa
 
 WebUI.click(findTestObject('Object Repository/Profile Menu/Save Profile User/span_senapahlev1'))
 
+WebUI.click(findTestObject('Karir/Search and filter job User can search and filter Job/button_Setuju'))
+
 WebUI.click(findTestObject('Object Repository/Profile Menu/Save Profile User/a_Profil Saya'))
 
 WebUI.click(findTestObject('Object Repository/Profile Menu/Save Profile User/span_Profil Saya_absolute inset-0'))

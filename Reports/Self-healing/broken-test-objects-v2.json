@@ -139,6 +139,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/div_Lihat_Daftar_Polis_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Personal Accident/User Journey Purchase PA - Login/td_sena pahlevi",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/main/section/div[2]/div[2]/div[2]/div/div/div/div/table/tbody/tr/td[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[(text() \u003d \u0027sena pahlevi\u0027 or . \u003d \u0027sena pahlevi\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Personal Accident/User Journey Purchase PA - Login/td_sena pahlevi_BASIC.png"
     }
   ]
 }

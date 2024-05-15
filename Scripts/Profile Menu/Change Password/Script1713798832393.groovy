@@ -29,6 +29,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Profile Menu/Change Pas
 
 WebUI.click(findTestObject('Object Repository/Profile Menu/Change Password/button_Login'))
 
+WebUI.click(findTestObject('Karir/Search and filter job User can search and filter Job/button_Setuju'))
+
 WebUI.click(findTestObject('Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi'))
 
 WebUI.click(findTestObject('Object Repository/Profile Menu/Change Password/a_Profil Saya'))

@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://staging.ezypolis.com:3001/')
 
+WebUI.click(findTestObject('Karir/Search and filter job User can search and filter Job/button_Setuju'))
+
 WebUI.findWebElements(findTestObject('Object Repository/Karir/Search and filter job User can search and filter Job/a_Karir'), 
     0)
 
