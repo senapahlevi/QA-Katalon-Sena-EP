@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Profile Menu/Change Password/a_Profil Saya",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-popover-panel-9\u0027]/div/ul/li/div/a/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Profil Saya\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240722_231121/Ezypolis Web/Ezypolis web Product/20240722_231122/Object Repository/Profile Menu/Change Password/a_Profil Saya_link.png"
+    }
+  ]
+}

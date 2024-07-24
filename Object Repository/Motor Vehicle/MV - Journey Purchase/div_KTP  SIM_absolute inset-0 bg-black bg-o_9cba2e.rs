@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KTP  SIM_absolute inset-0 bg-black bg-o_9cba2e</name>
+   <tag></tag>
+   <elementGuidId>6c84d845-2ab0-4381-ac35-8d590edba7a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/div[3]/div/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;KTP / SIM *&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c7cc7cf-6375-49b4-ab24-8439f77cea73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 bg-black bg-opacity-0 transition-colors group-hover:bg-opacity-50</value>
+      <webElementGuid>b9d59bdc-9687-4bf4-84c8-cc8dcb632526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 w-full max-w-3xl mx-auto&quot;]/div[@class=&quot;mt-10&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[1]/button[@class=&quot;relative px-0 w-full h-full bg-gray-4 outline-black rounded-lg overflow-hidden text-1xl text-white font-bold group focus:outline-none focus:ring-2 focus:ring-brand-highlight&quot;]/div[@class=&quot;absolute inset-0 bg-black bg-opacity-0 transition-colors group-hover:bg-opacity-50&quot;]</value>
+      <webElementGuid>f18805b4-5819-45fd-8e2f-1460d9a7d5d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div[3]/div/div/button/div</value>
+      <webElementGuid>69112d12-8e3a-4f06-87f6-4379cd88666b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>9e05985f-6bb4-479a-acd0-6a65029ce82d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Profile Menu" time="90.306" tests="2" failures="0" errors="0">
+   <testsuite name="Profile Menu" tests="2" failures="0" errors="0" time="90.306" skipped="0" timestamp="23-07-2024T23:02:31" hostname="ezypolismac - 192.168.0.101" id="Test Suites/Profile Menu">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/ezypolismac/git/QA-Katalon-Sena-EP/Reports/20240723_230230/Profile Menu/20240723_230230"/>
+         <property name="logFiles" value="/Users/ezypolismac/git/QA-Katalon-Sena-EP/Reports/20240723_230230/Profile Menu/20240723_230230/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ezypolismac - 192.168.0.101"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.101"/>
+         <property name="sessionId" value="fb1d0f882f36115bc2fb77776ae1633c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Profile Menu/Change Password" time="42.743" classname="Test Cases/Profile Menu/Change Password" status="PASSED">
+         <system-out><![CDATA[23-07-2024T23:02:31 - [TEST_CASE][PASSED] - Test Cases/Profile Menu/Change Password: Test Cases/Profile Menu/Change Password
+
+23-07-2024T23:02:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-07-2024T23:02:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-07-2024T23:02:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-07-2024T23:02:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-07-2024T23:02:33 - [TEST_STEP][PASSED] - navigateToUrl("https://staging.ezypolis.com:3001/"): Navigate to 'https://staging.ezypolis.com:3001/' successfully
+
+23-07-2024T23:02:35 - [MESSAGE][PASSED] - Navigate to 'https://staging.ezypolis.com:3001/' successfully
+
+23-07-2024T23:02:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/a_Masuk")): Object: 'Object Repository/Profile Menu/Change Password/a_Masuk' is clicked on
+
+23-07-2024T23:02:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/a_Masuk' is clicked on
+
+23-07-2024T23:02:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Profile Menu/Change Password/input_Email address_email"), "senapahlevi1@gmail.com"): Text 'senapahlevi1@gmail.com' is set on object 'Object Repository/Profile Menu/Change Password/input_Email address_email'
+
+23-07-2024T23:02:36 - [MESSAGE][PASSED] - Text 'senapahlevi1@gmail.com' is set on object 'Object Repository/Profile Menu/Change Password/input_Email address_email'
+
+23-07-2024T23:02:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Profile Menu/Change Password/input_Password_password"), "RigbBhfdqODKcAsiUrg+1Q=="): Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Password_password'
+
+23-07-2024T23:02:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Password_password'
+
+23-07-2024T23:02:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/button_Login")): Object: 'Object Repository/Profile Menu/Change Password/button_Login' is clicked on
+
+23-07-2024T23:02:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/button_Login' is clicked on
+
+23-07-2024T23:02:37 - [TEST_STEP][PASSED] - click(findTestObject("Karir/Search and filter job User can search and filter Job/button_Setuju")): Object: 'Object Repository/Karir/Search and filter job User can search and filter Job/button_Setuju' is clicked on
+
+23-07-2024T23:02:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Karir/Search and filter job User can search and filter Job/button_Setuju' is clicked on
+
+23-07-2024T23:02:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi")): Object: 'Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi' is clicked on
+
+23-07-2024T23:02:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi' is clicked on
+
+23-07-2024T23:02:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/a_Profil Saya")): Object: 'Object Repository/Profile Menu/Change Password/a_Profil Saya' is clicked on
+
+23-07-2024T23:03:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='headlessui-popover-panel-9']/div/ul/li/div/a/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+23-07-2024T23:03:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Profile Menu/Change Password/a_Profil Saya'. Try using Self-healing.
+
+23-07-2024T23:03:10 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Profile Menu/Change Password/a_Profil Saya' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='sena pahlevi'])[1]/following::a[2]'.
+
+23-07-2024T23:03:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/a_Profil Saya' is clicked on
+
+23-07-2024T23:03:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/span_Pengaturan Akun_absolute inset-0")): Object: 'Object Repository/Profile Menu/Change Password/span_Pengaturan Akun_absolute inset-0' is clicked on
+
+23-07-2024T23:03:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/span_Pengaturan Akun_absolute inset-0' is clicked on
+
+23-07-2024T23:03:11 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Profile Menu/Change Password/input_Password Lama_old_password"), "RigbBhfdqODKcAsiUrg+1Q=="): Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Password Lama_old_password'
+
+23-07-2024T23:03:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Password Lama_old_password'
+
+23-07-2024T23:03:12 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Profile Menu/Change Password/input_Password Baru_new_password"), "RigbBhfdqODKcAsiUrg+1Q=="): Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Password Baru_new_password'
+
+23-07-2024T23:03:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Password Baru_new_password'
+
+23-07-2024T23:03:12 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Profile Menu/Change Password/input_Konfirmasi Password Baru_confirm_password"), "RigbBhfdqODKcAsiUrg+1Q=="): Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Konfirmasi Password Baru_confirm_password'
+
+23-07-2024T23:03:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Profile Menu/Change Password/input_Konfirmasi Password Baru_confirm_password'
+
+23-07-2024T23:03:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/button_Simpan")): Object: 'Object Repository/Profile Menu/Change Password/button_Simpan' is clicked on
+
+23-07-2024T23:03:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/button_Simpan' is clicked on
+
+23-07-2024T23:03:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/aside_Password Anda berhasil diubah")): Object: 'Object Repository/Profile Menu/Change Password/aside_Password Anda berhasil diubah' is clicked on
+
+23-07-2024T23:03:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/aside_Password Anda berhasil diubah' is clicked on
+
+23-07-2024T23:03:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Change Password/p_Password Anda berhasil diubah")): Object: 'Object Repository/Profile Menu/Change Password/p_Password Anda berhasil diubah' is clicked on
+
+23-07-2024T23:03:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/p_Password Anda berhasil diubah' is clicked on
+
+23-07-2024T23:03:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-07-2024T23:03:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Profile Menu/Save Profile" time="47.493" classname="Test Cases/Profile Menu/Save Profile" status="PASSED">
+         <system-out><![CDATA[23-07-2024T23:03:14 - [TEST_CASE][PASSED] - Test Cases/Profile Menu/Save Profile: Test Cases/Profile Menu/Save Profile
+
+23-07-2024T23:03:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-07-2024T23:03:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-07-2024T23:03:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-07-2024T23:03:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-07-2024T23:03:15 - [TEST_STEP][PASSED] - navigateToUrl("https://staging.ezypolis.com:3001/"): Navigate to 'https://staging.ezypolis.com:3001/' successfully
+
+23-07-2024T23:03:17 - [MESSAGE][PASSED] - Navigate to 'https://staging.ezypolis.com:3001/' successfully
+
+23-07-2024T23:03:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/a_Masuk")): Object: 'Object Repository/Profile Menu/Save Profile User/a_Masuk' is clicked on
+
+23-07-2024T23:03:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/a_Masuk' is clicked on
+
+23-07-2024T23:03:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Profile Menu/Save Profile User/input_Email address_email"), "senapahlevi1@gmail.com"): Text 'senapahlevi1@gmail.com' is set on object 'Object Repository/Profile Menu/Save Profile User/input_Email address_email'
+
+23-07-2024T23:03:19 - [MESSAGE][PASSED] - Text 'senapahlevi1@gmail.com' is set on object 'Object Repository/Profile Menu/Save Profile User/input_Email address_email'
+
+23-07-2024T23:03:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Profile Menu/Save Profile User/input_Password_password"), "RigbBhfdqODKcAsiUrg+1Q=="): Text ****** has been set on object 'Object Repository/Profile Menu/Save Profile User/input_Password_password'
+
+23-07-2024T23:03:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Profile Menu/Save Profile User/input_Password_password'
+
+23-07-2024T23:03:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/span_Login")): Object: 'Object Repository/Profile Menu/Save Profile User/span_Login' is clicked on
+
+23-07-2024T23:03:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/span_Login' is clicked on
+
+23-07-2024T23:03:19 - [TEST_STEP][PASSED] - click(findTestObject("Karir/Search and filter job User can search and filter Job/button_Setuju")): Object: 'Object Repository/Karir/Search and filter job User can search and filter Job/button_Setuju' is clicked on
+
+23-07-2024T23:03:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Karir/Search and filter job User can search and filter Job/button_Setuju' is clicked on
+
+23-07-2024T23:03:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/span_senapahlev1")): Object: 'Object Repository/Profile Menu/Save Profile User/span_senapahlev1' is clicked on
+
+23-07-2024T23:03:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/span_senapahlev1' is clicked on
+
+23-07-2024T23:03:21 - [TEST_STEP][PASSED] - click(findTestObject("Profile Menu/Change Password/a_Profil Saya")): Object: 'Object Repository/Profile Menu/Change Password/a_Profil Saya' is clicked on
+
+23-07-2024T23:03:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='headlessui-popover-panel-9']/div/ul/li/div/a/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+23-07-2024T23:03:52 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Profile Menu/Change Password/a_Profil Saya'. Try using Self-healing.
+
+23-07-2024T23:03:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Profile Menu/Change Password/a_Profil Saya' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='sena pahlevi'])[1]/following::a[2]'.
+
+23-07-2024T23:03:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Change Password/a_Profil Saya' is clicked on
+
+23-07-2024T23:03:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Profile Menu/Save Profile User/input_Nama Lengkap_name"), "sena pahlevi"): Text 'sena pahlevi' is set on object 'Object Repository/Profile Menu/Save Profile User/input_Nama Lengkap_name'
+
+23-07-2024T23:03:53 - [MESSAGE][PASSED] - Text 'sena pahlevi' is set on object 'Object Repository/Profile Menu/Save Profile User/input_Nama Lengkap_name'
+
+23-07-2024T23:03:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Profile Menu/Save Profile User/input__birthdate"), ""): Text '' is set on object 'Object Repository/Profile Menu/Save Profile User/input__birthdate'
+
+23-07-2024T23:03:54 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Profile Menu/Save Profile User/input__birthdate'
+
+23-07-2024T23:03:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/input__birthdate")): Object: 'Object Repository/Profile Menu/Save Profile User/input__birthdate' is clicked on
+
+23-07-2024T23:03:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/input__birthdate' is clicked on
+
+23-07-2024T23:03:54 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Profile Menu/Save Profile User/select_192419251926192719281929193019311932_872961"), "2000", true): All options with value '2000' are selected in object 'Object Repository/Profile Menu/Save Profile User/select_192419251926192719281929193019311932_872961'  using regular expression
+
+23-07-2024T23:03:56 - [MESSAGE][PASSED] - All options with value '2000' are selected in object 'Object Repository/Profile Menu/Save Profile User/select_192419251926192719281929193019311932_872961'  using regular expression
+
+23-07-2024T23:03:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_20")): Object: 'Object Repository/Profile Menu/Save Profile User/div_20' is clicked on
+
+23-07-2024T23:03:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_20' is clicked on
+
+23-07-2024T23:03:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_Pilih Jenis Kelamin")): Object: 'Object Repository/Profile Menu/Save Profile User/div_Pilih Jenis Kelamin' is clicked on
+
+23-07-2024T23:03:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_Pilih Jenis Kelamin' is clicked on
+
+23-07-2024T23:03:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_Laki-laki")): Object: 'Object Repository/Profile Menu/Save Profile User/div_Laki-laki' is clicked on
+
+23-07-2024T23:03:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_Laki-laki' is clicked on
+
+23-07-2024T23:03:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_Pilih Provinsi")): Object: 'Object Repository/Profile Menu/Save Profile User/div_Pilih Provinsi' is clicked on
+
+23-07-2024T23:03:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_Pilih Provinsi' is clicked on
+
+23-07-2024T23:03:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_DI Yogyakarta")): Object: 'Object Repository/Profile Menu/Save Profile User/div_DI Yogyakarta' is clicked on
+
+23-07-2024T23:03:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_DI Yogyakarta' is clicked on
+
+23-07-2024T23:03:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_Pilih Kota")): Object: 'Object Repository/Profile Menu/Save Profile User/div_Pilih Kota' is clicked on
+
+23-07-2024T23:03:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_Pilih Kota' is clicked on
+
+23-07-2024T23:03:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/div_Kab. Bantul")): Object: 'Object Repository/Profile Menu/Save Profile User/div_Kab. Bantul' is clicked on
+
+23-07-2024T23:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/div_Kab. Bantul' is clicked on
+
+23-07-2024T23:03:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Profile Menu/Save Profile User/input_Nomor KTP_user_identity_num"), "1842198398192321"): Text '1842198398192321' is set on object 'Object Repository/Profile Menu/Save Profile User/input_Nomor KTP_user_identity_num'
+
+23-07-2024T23:04:00 - [MESSAGE][PASSED] - Text '1842198398192321' is set on object 'Object Repository/Profile Menu/Save Profile User/input_Nomor KTP_user_identity_num'
+
+23-07-2024T23:04:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/button_Simpan")): Object: 'Object Repository/Profile Menu/Save Profile User/button_Simpan' is clicked on
+
+23-07-2024T23:04:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/button_Simpan' is clicked on
+
+23-07-2024T23:04:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/p_Profil Anda berhasil diubah")): Object: 'Object Repository/Profile Menu/Save Profile User/p_Profil Anda berhasil diubah' is clicked on
+
+23-07-2024T23:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/p_Profil Anda berhasil diubah' is clicked on
+
+23-07-2024T23:04:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Profile Menu/Save Profile User/aside_Profil Anda berhasil diubah")): Object: 'Object Repository/Profile Menu/Save Profile User/aside_Profil Anda berhasil diubah' is clicked on
+
+23-07-2024T23:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile Menu/Save Profile User/aside_Profil Anda berhasil diubah' is clicked on
+
+23-07-2024T23:04:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-07-2024T23:04:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-07-2024T23:02:31 - [TEST_SUITE][PASSED] - Profile Menu: Test Cases/Profile Menu/Save Profile]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

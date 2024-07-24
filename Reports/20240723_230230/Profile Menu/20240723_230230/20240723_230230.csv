@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Profile Menu,Chrome 126.0.0.0,,,23-07-2024 23:02:31,23-07-2024 23:04:01,1m - 30.306s,PASSED
+,,,,,,,
+Test Cases/Profile Menu/Change Password,Chrome 126.0.0.0,,,23-07-2024 23:02:31,23-07-2024 23:03:14,42.743s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,23-07-2024 23:02:31,23-07-2024 23:02:33,1.623s,PASSED
+"navigateToUrl(""https://staging.ezypolis.com:3001/"")",Chrome 126.0.0.0,,,23-07-2024 23:02:33,23-07-2024 23:02:35,2.089s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/a_Masuk""))",Chrome 126.0.0.0,,,23-07-2024 23:02:35,23-07-2024 23:02:36,0.692s,PASSED
+"setText(findTestObject(""Object Repository/Profile Menu/Change Password/input_Email address_email""), ""senapahlevi1@gmail.com"")",Chrome 126.0.0.0,,,23-07-2024 23:02:36,23-07-2024 23:02:36,0.876s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile Menu/Change Password/input_Password_password""), ""RigbBhfdqODKcAsiUrg+1Q=="")",Chrome 126.0.0.0,,,23-07-2024 23:02:36,23-07-2024 23:02:37,0.362s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/button_Login""))",Chrome 126.0.0.0,,,23-07-2024 23:02:37,23-07-2024 23:02:37,0.501s,PASSED
+"click(findTestObject(""Karir/Search and filter job User can search and filter Job/button_Setuju""))",Chrome 126.0.0.0,,,23-07-2024 23:02:37,23-07-2024 23:02:38,0.859s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi""))",Chrome 126.0.0.0,,,23-07-2024 23:02:38,23-07-2024 23:02:39,0.617s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/a_Profil Saya""))",Chrome 126.0.0.0,,,23-07-2024 23:02:39,23-07-2024 23:03:10,31.569s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/span_Pengaturan Akun_absolute inset-0""))",Chrome 126.0.0.0,,,23-07-2024 23:03:10,23-07-2024 23:03:11,0.787s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile Menu/Change Password/input_Password Lama_old_password""), ""RigbBhfdqODKcAsiUrg+1Q=="")",Chrome 126.0.0.0,,,23-07-2024 23:03:11,23-07-2024 23:03:12,0.624s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile Menu/Change Password/input_Password Baru_new_password""), ""RigbBhfdqODKcAsiUrg+1Q=="")",Chrome 126.0.0.0,,,23-07-2024 23:03:12,23-07-2024 23:03:12,0.283s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile Menu/Change Password/input_Konfirmasi Password Baru_confirm_password""), ""RigbBhfdqODKcAsiUrg+1Q=="")",Chrome 126.0.0.0,,,23-07-2024 23:03:12,23-07-2024 23:03:12,0.287s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/button_Simpan""))",Chrome 126.0.0.0,,,23-07-2024 23:03:12,23-07-2024 23:03:13,0.267s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/aside_Password Anda berhasil diubah""))",Chrome 126.0.0.0,,,23-07-2024 23:03:13,23-07-2024 23:03:13,0.779s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Change Password/p_Password Anda berhasil diubah""))",Chrome 126.0.0.0,,,23-07-2024 23:03:13,23-07-2024 23:03:14,0.263s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,23-07-2024 23:03:14,23-07-2024 23:03:14,0.155s,PASSED
+,,,,,,,
+Test Cases/Profile Menu/Save Profile,Chrome 126.0.0.0,,,23-07-2024 23:03:14,23-07-2024 23:04:01,47.493s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,23-07-2024 23:03:14,23-07-2024 23:03:15,0.943s,PASSED
+"navigateToUrl(""https://staging.ezypolis.com:3001/"")",Chrome 126.0.0.0,,,23-07-2024 23:03:15,23-07-2024 23:03:17,2.211s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/a_Masuk""))",Chrome 126.0.0.0,,,23-07-2024 23:03:17,23-07-2024 23:03:18,0.607s,PASSED
+"setText(findTestObject(""Object Repository/Profile Menu/Save Profile User/input_Email address_email""), ""senapahlevi1@gmail.com"")",Chrome 126.0.0.0,,,23-07-2024 23:03:18,23-07-2024 23:03:19,0.911s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile Menu/Save Profile User/input_Password_password""), ""RigbBhfdqODKcAsiUrg+1Q=="")",Chrome 126.0.0.0,,,23-07-2024 23:03:19,23-07-2024 23:03:19,0.333s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/span_Login""))",Chrome 126.0.0.0,,,23-07-2024 23:03:19,23-07-2024 23:03:19,0.512s,PASSED
+"click(findTestObject(""Karir/Search and filter job User can search and filter Job/button_Setuju""))",Chrome 126.0.0.0,,,23-07-2024 23:03:19,23-07-2024 23:03:20,0.820s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/span_senapahlev1""))",Chrome 126.0.0.0,,,23-07-2024 23:03:20,23-07-2024 23:03:21,0.650s,PASSED
+"click(findTestObject(""Profile Menu/Change Password/a_Profil Saya""))",Chrome 126.0.0.0,,,23-07-2024 23:03:21,23-07-2024 23:03:52,31.447s,PASSED
+"setText(findTestObject(""Object Repository/Profile Menu/Save Profile User/input_Nama Lengkap_name""), ""sena pahlevi"")",Chrome 126.0.0.0,,,23-07-2024 23:03:52,23-07-2024 23:03:53,0.968s,PASSED
+"setText(findTestObject(""Object Repository/Profile Menu/Save Profile User/input__birthdate""), """")",Chrome 126.0.0.0,,,23-07-2024 23:03:53,23-07-2024 23:03:54,0.755s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/input__birthdate""))",Chrome 126.0.0.0,,,23-07-2024 23:03:54,23-07-2024 23:03:54,0.264s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Profile Menu/Save Profile User/select_192419251926192719281929193019311932_872961""), ""2000"", true)",Chrome 126.0.0.0,,,23-07-2024 23:03:54,23-07-2024 23:03:56,1.479s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_20""))",Chrome 126.0.0.0,,,23-07-2024 23:03:56,23-07-2024 23:03:56,0.276s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_Pilih Jenis Kelamin""))",Chrome 126.0.0.0,,,23-07-2024 23:03:56,23-07-2024 23:03:57,0.476s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_Laki-laki""))",Chrome 126.0.0.0,,,23-07-2024 23:03:57,23-07-2024 23:03:57,0.476s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_Pilih Provinsi""))",Chrome 126.0.0.0,,,23-07-2024 23:03:57,23-07-2024 23:03:57,0.480s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_DI Yogyakarta""))",Chrome 126.0.0.0,,,23-07-2024 23:03:57,23-07-2024 23:03:58,0.475s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_Pilih Kota""))",Chrome 126.0.0.0,,,23-07-2024 23:03:58,23-07-2024 23:03:58,0.469s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/div_Kab. Bantul""))",Chrome 126.0.0.0,,,23-07-2024 23:03:58,23-07-2024 23:03:59,0.472s,PASSED
+"setText(findTestObject(""Object Repository/Profile Menu/Save Profile User/input_Nomor KTP_user_identity_num""), ""1842198398192321"")",Chrome 126.0.0.0,,,23-07-2024 23:03:59,23-07-2024 23:04:00,0.941s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/button_Simpan""))",Chrome 126.0.0.0,,,23-07-2024 23:04:00,23-07-2024 23:04:00,0.369s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/p_Profil Anda berhasil diubah""))",Chrome 126.0.0.0,,,23-07-2024 23:04:00,23-07-2024 23:04:01,0.682s,PASSED
+"click(findTestObject(""Object Repository/Profile Menu/Save Profile User/aside_Profil Anda berhasil diubah""))",Chrome 126.0.0.0,,,23-07-2024 23:04:01,23-07-2024 23:04:01,0.255s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,23-07-2024 23:04:01,23-07-2024 23:04:01,0.152s,PASSED

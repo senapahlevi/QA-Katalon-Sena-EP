@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Karir/Search and filter job User can search and filter Job/button_Setuju",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/div/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240722_230537/Ezypolis Web/Ezypolis web Product/20240722_230537/Object Repository/Karir/Search and filter job User can search and filter Job/button_Setuju_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi",
+      "brokenLocator": "//button[@id\u003d\u0027headlessui-popover-button-1\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240722_230537/Ezypolis Web/Ezypolis web Product/20240722_230537/Object Repository/Profile Menu/Change Password/span_Hi sena pahlevi_position.png"
+    }
+  ]
+}

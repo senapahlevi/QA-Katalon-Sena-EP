@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Profile Menu/Change Password/a_Profil Saya",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-popover-panel-9\u0027]/div/ul/li/div/a/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027sena pahlevi\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240723_230230/Profile Menu/20240723_230230/Object Repository/Profile Menu/Change Password/a_Profil Saya_neighbor.png"
+    }
+  ]
+}

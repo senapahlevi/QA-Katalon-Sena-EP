@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_STNK_absolute inset-0 bg-black bg-opaci_3abaf0</name>
+   <tag></tag>
+   <elementGuidId>aa0db7dc-3009-4bd0-be63-036b0fb6c411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/div[2]/div[3]/div/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;STNK *&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0544eda-9ade-46b1-a4e2-d93fc05b66cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 bg-black bg-opacity-0 transition-colors group-hover:bg-opacity-50</value>
+      <webElementGuid>610d132c-e5e4-4305-931e-83c1a384d065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen flex flex-col&quot;]/main[@class=&quot;min-h-[calc(100vh-58px)] overflow-x-hidden&quot;]/section[@class=&quot;w-full h-full flex flex-col max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 py-15&quot;]/div[@class=&quot;mt-10 w-full max-w-3xl mx-auto&quot;]/div[@class=&quot;mt-10&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[2]/button[@class=&quot;relative px-0 w-full h-full bg-gray-4 outline-black rounded-lg overflow-hidden text-1xl text-white font-bold group focus:outline-none focus:ring-2 focus:ring-brand-highlight&quot;]/div[@class=&quot;absolute inset-0 bg-black bg-opacity-0 transition-colors group-hover:bg-opacity-50&quot;]</value>
+      <webElementGuid>a6407360-d457-47e3-8f5b-ee3af3952440</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/div[3]/div/div[2]/button/div</value>
+      <webElementGuid>79d05bf8-3a63-4b86-aeff-f728797dbf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div</value>
+      <webElementGuid>783b8a88-3744-484e-afa0-ec13c352c042</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
