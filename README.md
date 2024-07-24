@@ -1,2 +1,2 @@
-# EP---Sena
-portofolio manual test case into automation tools using katalon
+# EP (Ezypolis)-Sena
+portofolio manual test case (ezypolis.com) into automation tools using katalon
